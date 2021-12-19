@@ -6,6 +6,6 @@
 
 | comienzo | dia | Exposición | Slack|
 |----------|----------|----------|----------|
-| 10-01-2022 | lunes | [ecuelaIT] (https://escuela.it/) | [Slack] (https://slack.com/workspace-signin) |
+| 10-01-2022 | lunes | [ecuelaIT](https://escuela.it/) | [Slack](https://slack.com/workspace-signin) |
 
 
