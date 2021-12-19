@@ -6,8 +6,8 @@
 
 [Slack](https://slack.com/workspace-signin)
 
-| comienzo | dia | Exposición |
+| Comienzo | dia | Exposición |
 |----------|----------|----------|
-| 10-01-2022 | lunes | [ecuelaIT](https://escuela.it/) |  
+| 10-01-2022 | Lunes | [ecuelaIT](https://escuela.it/) |  
 
 
