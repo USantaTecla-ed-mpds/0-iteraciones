@@ -1,4 +1,4 @@
 # Master en programación y deseño software
 
-![](./logo.png)
+![logo](./logo.png "logo")
 
