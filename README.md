@@ -4,8 +4,10 @@
 
 ## 1-fundamentos-git
 
-| comienzo | dia | Exposición | Slack|
-|----------|----------|----------|----------|
-| 10-01-2022 | lunes | [ecuelaIT](https://escuela.it/) | [Slack](https://slack.com/workspace-signin) |
+[Slack](https://slack.com/workspace-signin)
+
+| comienzo | dia | Exposición |
+|----------|----------|----------|
+| 10-01-2022 | lunes | [ecuelaIT](https://escuela.it/) |  
 
 
