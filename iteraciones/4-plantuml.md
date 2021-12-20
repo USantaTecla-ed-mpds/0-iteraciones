@@ -7,7 +7,12 @@
   - [Exposición](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
   - [Registro](https://forms.gle/pA2QvsW32P4KtTD77)
 - martes 1/02/2022 - jueves 3/02/2022
-  - [Proyectos](https://escuela.it/)
+  - Proyectos
+  |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-bernersLee|
+  |----|----|----|----|----|----|----|
+  |    |    |    |    |    |    |    |
+  |    |    |    |    |    |    |    |
+  |    |    |    |    |    |    |    |
 - viernes 4/02/2022
   - [Corrección de Proyectos](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
 - sabado 5/02/2022 - domingo 6/02/2022
