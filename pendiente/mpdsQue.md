@@ -22,3 +22,7 @@
 |    | MetaProgramación  |    | 
 
 
+| 2 lenguajes "opuestos": java y javascritp |  Profundidad en últimas tecnologías |
+|-------------------------------------------|-------------------------------------|
+| programación y diseño | Debates religiosos |
+| lenguajes previo | Negocio y empresas |
