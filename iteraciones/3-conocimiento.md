@@ -7,7 +7,13 @@
   - [Exposición](https://escuela.it/)
   - [Registro](https://escuela.it/)
 - martes 25/01/2022 - jueves 27/01/2022
-  - [Proyectos](https://escuela.it/)
+   - Proyectos
+  
+  |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-bernersLee|
+  |-------|----------|---------|------------|----------|-----------|--------------|
+  |       |          |         |            |          |           |              |
+  |       |          |         |            |          |           |              |
+  |       |          |         |            |          |           |              |
 - viernes 28/01/2022
   - [Corrección de Proyectos](https://escuela.it/)
 - sabado 29/01/2022 - domingo 30/01/2022
