@@ -14,4 +14,4 @@
 | Cuándo | Lunes y Viernes | Lunes a Domingo | Viernes a Jueves | Martes a Jueves  | Viernes  | Sábado y Domingo | Viernes y Lunes |
 | Dónde | Clase | Clase y Casa | Clase y Casa | Casa  | Casa | Casa | Clase |
 |Por qué|   | sencillez | comunicación | realimentación | coraje | respeto |     |
-| Para qué |    | sencillez | comunicación | realimentación | coraje | respeto |    |
+| Para qué |    |Arquitectura Hexagonal | eXtreme Programming | Refactoring | Test-Driven Development | Domain-Driven Design |    |
