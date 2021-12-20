@@ -1,1 +1,1 @@
-![Cronograma](images/cronograma.png "")
+![cronograma](images/cronograma.png)
