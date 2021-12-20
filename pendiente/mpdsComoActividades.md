@@ -8,9 +8,9 @@
 | Qué |___Teoría___ | ___Pragmática___ | ___Pragmática___ | ___Práctica___ | ___Todo___   | ___Todo___   | ___Todo___  |
 | Qué | Conocimiento | Comprensión | Análisis | Síntesis |Evaluación |Evaluación | Evaluación |
 | Cómo | **Castellano** | **Castellano** | **Inglés** | **Inglés** | **Castellano e inglés**   | **Castellano e inglés** | **Castellano e inglés**  |
-| Cómo | __Ordenado__ | __En clase__ | __Juegos__ | __Juegos__ |    | __sin notas__ |    |
-| Cómo | __Relacionado__ | __en diferido__ | __Evollución__ | __Evollución__ |    | __razonar__ |    |
-| Cómo | __Estructurado__ | __todo el temario anterior__ | __Comparacion__ | __Comparacion__ | __respuestas abierto__ | __respuestas abierto__  |    |
+| Cómo | _Ordenado_ | _En clase_ | _Juegos_ | _Juegos_ |    | _sin notas_ |    |
+| Cómo | _Relacionado_ | _en diferido_ | _Evollución_ | _Evollución_ |    | _razonar_ |    |
+| Cómo | _Estructurado_ | _todo el temario anterior_ | _Comparacion_ | _Comparacion_ | _respuestas abierto_ | _respuestas abierto_  |    |
 |    |    |    |    |    |    |    |    |
 |    |    |    |    |    |    |    |    |
 |    |    |    |    |    |    |    |    |
