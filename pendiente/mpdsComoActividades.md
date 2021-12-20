@@ -7,10 +7,10 @@
 | Quién |Director | Director | Director   |    |    |    | Director |
 | Qué |___Teoría___ | ___Pragmática___ | ___Pragmática___ | ___Práctica___ | ___Todo___   | ___Todo___   | ___Todo___  |
 | Qué | Conocimiento | Comprensión | Análisis | Síntesis |Evaluación |Evaluación | Evaluación |
-| Cómo | - Castellano | - Castellano | - Inglés | - Inglés | - Castellano e inglés   |- Castellano e inglés |  - Castellano e inglés  |
-| Cómo | - Ordenado | - En clase | - Juegos |- Juegos |    | - sin notas |    |
-| Cómo | - Relacionado | - en diferido | - Evollución | - Evollución |    | - razonar |    |
-| Cómo | - Estructurado   | - todo el temario anterior | - Comparacion | - Comparacion | - respuestas abierto | - respuestas abierto  |    |
+| Cómo | **Castellano** | **Castellano** | **Inglés** | **Inglés** | **Castellano e inglés**   | **Castellano e inglés** | **Castellano e inglés**  |
+| Cómo | __Ordenado__ | __En clase__ | __Juegos__ | __Juegos__ |    | __sin notas__ |    |
+| Cómo | __Relacionado__ | __en diferido__ | __Evollución__ | __Evollución__ |    | __razonar__ |    |
+| Cómo | __Estructurado__ | __todo el temario anterior__ | __Comparacion__ | __Comparacion__ | __respuestas abierto__ | __respuestas abierto__  |    |
 |    |    |    |    |    |    |    |    |
 |    |    |    |    |    |    |    |    |
 |    |    |    |    |    |    |    |    |
