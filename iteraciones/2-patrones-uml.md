@@ -11,9 +11,9 @@
   
   |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-bernersLee|
   |-------|----------|---------|------------|----------|-----------|--------------|
-  |       |          |         |            |          |           |              |
-  |       |          |         |            |          |           |              |
-  |       |          |         |            |          |           |              |
+  | game-connect4      |          |         |            |          |           |              |
+  | tool-plotter      |          |         |            |          |           |              |
+  | game-klondike      |          |         |            |          |           |              |
 - viernes 21/01/2022
   - [Corrección de Proyectos](https://escuela.it/)
 - sabado 22/01/2022 - domingo 23/01/2022
@@ -22,3 +22,4 @@
   - [Corrección de Prueba](https://escuela.it/)
   - [Solución de Prueba](https://escuela.it/)
 - [Comunidad](https://escuela.it/)
+
