@@ -1,12 +1,12 @@
 # 3-conocimiento
 
 - [Preguntas](https://escuela.it/)
-- viernes 28/01/2022
+- viernes 04/02/2022
   - [Exposición](https://escuela.it/)
-- lunes 31/01/2022
+- lunes 07/02/2022
   - [Exposición](https://escuela.it/)
   - [Registro](https://escuela.it/)
-- martes 1/02/2022 - jueves 3/02/2022
+- martes 08/02/2022 - jueves 10/02/2022
    - Proyectos
   
   |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-bernersLee|
@@ -14,11 +14,11 @@
   |       |          |         |            |          |           |              |
   |       |          |         |            |          |           |              |
   |       |          |         |            |          |           |              |
-- viernes 28/01/2022
+- viernes 11/02/2022
   - [Corrección de Proyectos](https://escuela.it/)
-- sabado 4/02/2022 - domingo 6/02/2022
+- sabado 12/02/2022 - domingo 13/02/2022
   - [Prueba](https://escuela.it/)
-- lunes 7/02/2022
+- lunes 14/02/2022
   - [Corrección de Prueba](https://escuela.it/)
   - [Solución de Prueba](https://escuela.it/)
 - [Comunidad](https://escuela.it/)
