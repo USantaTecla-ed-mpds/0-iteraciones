@@ -20,7 +20,7 @@
 |[25-programacionOrientadaObjetos](iteraciones/25-programacionOrientadaObjetos.md) |[26-diseñoOrientadoObjetos](iteraciones/26-diseñoOrientadoObjetos.md) |  
 |[27-diseñoOrientadoObjetos](iteraciones/27-diseñoOrientadoObjetos.md) |[28-diseñoOrientadoObjetos](iteraciones/28-diseñoOrientadoObjetos.md) |
 |[29-programacionConExcepciones](iteraciones/29-programacionConExcepciones.md) |[30-programacionModular](iteraciones/30-programacionModular.md) | 
-|[31-programacionConInterfazGráficaUsuario-dhtml.md](iteraciones/31-programacionConInterfazGráficaUsuario-dhtml.md.md) | [32-dhtml](iteraciones/32-dhtml.md) |
+|[31-programacionConInterfazGráficaUsuario-dhtml](iteraciones/31-programacionConInterfazGráficaUsuario-dhtml.md) | [32-dhtml](iteraciones/32-dhtml.md) |
 |[33-prorgamacionConComunicaciones-ajax](iteraciones/33-prorgamacionConComunicaciones-ajax.md) | [34-prorgamacionConPersistencia-storage](iteraciones/34-prorgamacionConPersistencia-storage.md) |  
 |[35-java-programacionImperativa](iteraciones/35-java-programacionImperativa.md) |[36-programacionEstructurada](iteraciones/36-programacionEstructurada.md) |
 |[37-programacionBasadaObjetos](iteraciones/37-programacionBasadaObjetos.md) |[38-programacionOrientadaObjetos](iteraciones/38-programacionOrientadaObjetos.md) |  
