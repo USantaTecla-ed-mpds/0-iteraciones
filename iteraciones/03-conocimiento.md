@@ -5,7 +5,7 @@
   - [Exposición](https://escuela.it/)
 - lunes 07/02/2022
   - [Exposición](https://escuela.it/)
-  - [Registro](https://escuela.it/)
+  - [Registro](https://docs.google.com/forms/d/1h5vUOj8UYusX9OcLV8aHk6i4tIIq1uSOpzLMeiErU-0/edit)
 - martes 08/02/2022 - jueves 10/02/2022
    - Proyectos
   
@@ -17,7 +17,7 @@
 - viernes 11/02/2022
   - [Corrección de Proyectos](https://escuela.it/)
 - sabado 12/02/2022 - domingo 13/02/2022
-  - [Prueba](https://escuela.it/)
+  - [Prueba](https://docs.google.com/forms/d/1h5vUOj8UYusX9OcLV8aHk6i4tIIq1uSOpzLMeiErU-0/edit)
 - lunes 14/02/2022
   - [Corrección de Prueba](https://escuela.it/)
   - [Solución de Prueba](https://escuela.it/)
