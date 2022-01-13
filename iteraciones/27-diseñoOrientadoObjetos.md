@@ -21,4 +21,4 @@
 - lunes 01/08/2022
   - [Corrección de Prueba](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Uwtqa5VdD5wK2X7eLgkS6_th16aPnsW8pa5Ft2TyLPo/edit#gid=0)
-- [Comunidad](https://escuela.it/)
+- [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TFT0RYT1)
