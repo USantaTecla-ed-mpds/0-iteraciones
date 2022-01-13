@@ -1,12 +1,12 @@
-# 39-programacionConExcepciones
+# 29-js-excepciones
 
 - [Preguntas](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
-- viernes 18/11/2022
+- viernes 09/09/2022
   - [Exposición](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
-- lunes 21/11/2022
+- lunes 12/09/2022
   - [Exposición](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
   - [Registro](https://forms.gle/pA2QvsW32P4KtTD77)
-- martes 22/11/2022 - jueves 24/11/2022
+- martes 13/09/2022 - jueves 15/09/2022
   - Proyectos
   
   |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-bernersLee|
@@ -14,11 +14,11 @@
   |       |          |         |            |          |           |              |
   |       |          |         |            |          |           |              |
   |       |          |         |            |          |           |              |
-- viernes 25/11/2022
+- viernes 16/09/2022
   - [Corrección de Proyectos](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
-- sabado 26/11/2022 - domingo 27/11/2022
+- sabado 17/09/2022 - domingo 18/09/2022
   - [Prueba](https://forms.gle/hB9UJoN2PYiexctH8)
-- lunes 28/11/2022
+- lunes 19/09/2022
   - [Corrección de Prueba](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Uwtqa5VdD5wK2X7eLgkS6_th16aPnsW8pa5Ft2TyLPo/edit#gid=0)
-- [Comunidad](https://app.slack.com/client/T02S3KYD464/C02UL9JU75W)
+- [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TFTADQUX)

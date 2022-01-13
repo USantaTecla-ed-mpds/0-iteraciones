@@ -1,12 +1,12 @@
-# 12-disciplinasProgramacion-javascript
+# 46-patronesDiseño
 
 - [Preguntas](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
-- viernes 08/04/2022
+- viernes 10/02/2023
   - [Exposición](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
-- lunes 11/04/2022
+- lunes 13/02/2023
   - [Exposición](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
   - [Registro](https://forms.gle/pA2QvsW32P4KtTD77)
-- martes 12/04/2022 - jueves 14/04/2022
+- martes 14/02/2023 - jueves 16/02/2023
   - Proyectos
   
   |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-bernersLee|
@@ -14,11 +14,11 @@
   |       |          |         |            |          |           |              |
   |       |          |         |            |          |           |              |
   |       |          |         |            |          |           |              |
-- viernes 15/04/2022
+- viernes 17/02/2023
   - [Corrección de Proyectos](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
-- sabado 16/04/2022 - domingo 17/04/2022
+- sabado 18/02/2023 - domingo 19/02/2023
   - [Prueba](https://forms.gle/hB9UJoN2PYiexctH8)
-- lunes 18/04/2022
+- lunes 20/02/2023
   - [Corrección de Prueba](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Uwtqa5VdD5wK2X7eLgkS6_th16aPnsW8pa5Ft2TyLPo/edit#gid=0)
-- [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TFR4AYCF)
+- [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TTLEJTJR)
