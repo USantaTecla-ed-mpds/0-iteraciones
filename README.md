@@ -29,7 +29,7 @@
 |[43-files-SQL](iteraciones/43-files-SQL.md) |[44-TCP-IP](iteraciones/44-TCP-IP.md) |
 |[45-patronesDeDiseño](iteraciones/45-patronesDeDiseño.md) |[46-patronesDeDiseño](iteraciones/46-patronesDeDiseño.md) |    |[47-patronesDeDiseño](iteraciones/47-patronesDeDiseño.md) |[48-patronesDeDiseño](iteraciones/48-patronesDeDiseño.md) |
 |[49-patronesDeDiseño](iteraciones/49-patronesDeDiseño.md) |[50-arquitecturaSoftware](iteraciones/50-arquitecturaSoftware.md) |  
-|[51-Arquitectura MV*](iteraciones/51-arquitecturaMV.md) |[52-arquitecturaMV*](iteraciones/52-arquitecturaMV.md) |
+|[51-arquitectura MV*](iteraciones/51-arquitecturaMV.md) |[52-arquitecturaMV*](iteraciones/52-arquitecturaMV.md) |
 |[53-javaJavascript-aplicacionesSoftware](iteraciones/53-javaJavascript-aplicacionesSoftware.md) | [54-frameworksLibrerías-metaProgramacion](iteraciones/54-frameworksLibrerías-metaProgramacion.md) | 
 
 
