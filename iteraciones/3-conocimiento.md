@@ -21,5 +21,5 @@
 - lunes 14/02/2022
   - [Corrección de Prueba](https://escuela.it/)
   - [Solución de Prueba](https://escuela.it/)
-- [Comunidad](https://escuela.it/)
+- [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TRC3TFTK)
 
