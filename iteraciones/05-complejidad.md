@@ -5,7 +5,7 @@
   - [Exposición](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
 - lunes 21/02/2022
   - [Exposición](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
-  - [Registro](https://docs.google.com/forms/d/1UzAeN9KYJZzaQ5CAva4mBwQ-HdwxLmUt8kPy16svwQ8/edit)
+  - [Registro](https://forms.gle/fDBvvfBrSThRjxBo7)
 - martes 22/02/2022 - jueves 24/02/2022
   - Proyectos
   
@@ -17,7 +17,7 @@
 - viernes 25/02/2022
   - [Corrección de Proyectos](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
 - sabado 26/02/2022 - domingo 27/02/2022
-  - [Prueba](https://docs.google.com/forms/d/1jl5LNuXifKeQvPVCcXX5gYOqLKGUY79ECswnGHzOrjY/edit)
+  - [Prueba](https://forms.gle/JqFpJbrw4qDjfzz96)
 - lunes 28/02/2022
   - [Corrección de Prueba](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Uwtqa5VdD5wK2X7eLgkS6_th16aPnsW8pa5Ft2TyLPo/edit#gid=0)
