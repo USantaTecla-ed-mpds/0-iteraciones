@@ -9,7 +9,7 @@
 - martes 31/01/2023 - jueves 02/02/2023
   - Proyectos
   
-  |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-bernersLee|
+  |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|----------|---------|------------|----------|-----------|--------------|
   |       |          |         |            |          |           |              |
   |       |          |         |            |          |           |              |

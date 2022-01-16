@@ -9,7 +9,7 @@
 - martes 27/09/2022 - jueves 29/09/2022
   - Proyectos
   
-  |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-bernersLee|
+  |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|----------|---------|------------|----------|-----------|--------------|
   |       |          |         |            |          |           |              |
   |       |          |         |            |          |           |              |
