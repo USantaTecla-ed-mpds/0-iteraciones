@@ -9,10 +9,10 @@
 - martes 15/02/2022 - jueves 17/02/2022
   - Proyectos
   
-  |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
-  |-------|----------|---------|------------|----------|-----------|--------------|
-  |       |          | [proyectos]()        | [proyectos]()           |[proyectos]()          |[proyectos]()           |[proyectos]()              |
-  |       |          |[proyectos]()         |[proyectos]()            |[proyectos]()          |[proyectos]()           |[proyectos]()              |
+  |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
+  |-------|---------|------------|----------|-----------|--------------|
+  |       | [proyectos]()        | [proyectos]()           |[proyectos]()          |[proyectos]()           |[proyectos]()              |
+  |       |[proyectos]()         |[proyectos]()            |[proyectos]()          |[proyectos]()           |[proyectos]()              |
 - viernes 18/02/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 19/02/2022 - domingo 20/02/2022

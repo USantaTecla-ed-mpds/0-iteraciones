@@ -9,11 +9,11 @@
 - martes 04/10/2022 - jueves 06/10/2022
   - Proyectos
   
-  |Domains|Requisitos|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
-  |-------|----------|---------|------------|----------|-----------|--------------|
-  |       |          |         |            |          |           |              |
-  |       |          |         |            |          |           |              |
-  |       |          |         |            |          |           |              |
+  |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
+  |-------|---------|------------|----------|-----------|--------------|
+  |       |         |            |          |           |              |
+  |       |         |            |          |           |              |
+  |       |         |            |          |           |              |
 - viernes 07/10/2022
   - [Corrección de Proyectos](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/patron)
 - sabado 08/10/2022 - domingo 09/10/2022
