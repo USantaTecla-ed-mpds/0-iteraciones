@@ -8,8 +8,7 @@
   - [Registro](https://forms.gle/mZUTEsZgJcwgLtQy7)
 - martes 08/02/2022 - jueves 10/02/2022
    - Proyectos
-  
-  * [ImperativeGrid](https://forms.gle/c4xEXQrSyTKgQBaT9)
+      - [ImperativeGrid](https://forms.gle/c4xEXQrSyTKgQBaT9)
 
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|

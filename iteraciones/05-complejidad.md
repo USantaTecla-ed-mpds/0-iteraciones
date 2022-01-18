@@ -8,8 +8,7 @@
   - [Registro](https://forms.gle/GZukYLXgiZWp9Lkd8)
 - martes 22/02/2022 - jueves 24/02/2022
   - Proyectos
-  
-  * [DeclarativeGrid](https://forms.gle/nM6NemfzA5onwEbo9)
+    - [DeclarativeGrid](https://forms.gle/nM6NemfzA5onwEbo9)
 
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
