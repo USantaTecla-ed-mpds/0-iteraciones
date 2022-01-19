@@ -5,7 +5,7 @@
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
 - lunes 14/03/2022
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
-  - [Registro](https://forms.gle/3JX2nDZmC4ZMT9ae7)
+  - [Registro](https://forms.gle/zBx6adbWLBNm4FjU9)
 - martes 15/03/2022 - jueves 17/03/2022
   - Proyectos
   
