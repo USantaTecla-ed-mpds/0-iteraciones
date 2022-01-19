@@ -5,7 +5,7 @@
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
 - lunes 21/02/2022
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
-  - [Registro](https://forms.gle/GZukYLXgiZWp9Lkd8)
+  - [Registro](https://forms.gle/wUmy3AiLW97LjpbP6)
 - martes 22/02/2022 - jueves 24/02/2022
   - Proyectos
     - [DeclarativeGrid](https://forms.gle/nM6NemfzA5onwEbo9)
@@ -17,7 +17,7 @@
 - viernes 25/02/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 26/02/2022 - domingo 27/02/2022
-  - [Prueba](https://forms.gle/EkDBwH9yQzJ9iuZo9)
+  - [Prueba](https://forms.gle/vG7TZwZVmfjJRSPP9)
 - lunes 28/02/2022
   - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1m1nvaSuak4Rw1HE45ul86p3yrTbdtTqX9D4ojN9xfYs/edit?usp=sharing)
