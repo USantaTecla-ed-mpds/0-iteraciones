@@ -2,14 +2,21 @@
 
 ![logo](../images/logo.png "logo")
 
+## ¿Por qué?
+
+| Profundidad |  Superficialidad |
+|-------------------------------------------|-------------------------------------|
+| Lenguajes "opuestos": java y javascritp |  Últimas tecnologías |
+| Programación y Diseño "entreverado" | Debates religiosos |
+| Lenguajes previo | Negocio y empresas |
+
 ## ¿Qué?
 
 |  ___Disciplinas___  | ___Tecnologías___ |
 |---------------|  :-----: |
-| Fundamentos del Software | **UML, PlantUML, XML, JSON, YAML, XPath, XML Schema, SVG, HTML, CSS**   |
+| Fundamentos del Software | **UML, PlantUML, XML, JSON, YAML, XPath, SVG, HTML, CSS**   |
 |  Disciplina de Programacion  | **javascript / java**  |
 | Disciplina de Diseño   | **DHTML, AJAX, Storage / Swing, TCP/IP, Files, SQL**  |
-
 
 | ___Fundamentos del Software___   | ___Disciplina de Programacion___   | ___Disciplina de Diseño___   |
 |----------------------------------|------------------------------------|------------------------------|
@@ -26,11 +33,18 @@
 |    | Programación Parametrizada    |    | 
 |    | MetaProgramación  |    | 
 
+## ¿Para qué?
 
-| 2 lenguajes "opuestos": java y javascritp |  Profundidad en últimas tecnologías |
-|-------------------------------------------|-------------------------------------|
-| programación y diseño | Debates religiosos |
-| lenguajes previo | Negocio y empresas |
+| Tecnologías | Ámbito |
+|------|-------|
+| UML, PlantUML | Diseño, Patrones de  Diseño, Arquitectura del Software |
+| XML, JSON, YAML | Gestión de proyectos, DTO en Web/Cliente-Servidor |
+| DHTML, AJAX, Storage, HTML, CSS, XPath, SVG | Front-End Web: React, Angular, ... |
+| Swing | Front-End Escritorio |
+| TCP/IP | Comunicaciones en Back-end |
+| Files, SQL | Persistencia en Back-end |
+
+
 
 ## ¿Cómo?
 
