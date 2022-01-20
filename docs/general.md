@@ -39,12 +39,16 @@
 |------|-------|
 | UML, PlantUML | Diseño, Patrones de  Diseño, Arquitectura del Software |
 | XML, JSON, YAML | Gestión de proyectos, DTO en Web/Cliente-Servidor |
-| DHTML, AJAX, Storage, HTML, CSS, XPath, SVG | Front-End Web: React, Angular, ... |
+| HTML, CSS, XPath, javascript, DHTML, AJAX, Storage, SVG | Front-End Web: React, Angular, ... |
 | Swing | Front-End Escritorio |
 | TCP/IP | Comunicaciones en Back-end |
 | Files, SQL | Persistencia en Back-end |
+| java, javascript | Back-end: Spring, node, ... |
 
-
+| Roles | Completar |
+|-----|-----|
+| Desarrollador | Pruebas Unitarias: JUnit, Jess |
+| Arquitecto | Tecnologías: microservicios, CQRS, ... |
 
 ## ¿Cómo?
 
