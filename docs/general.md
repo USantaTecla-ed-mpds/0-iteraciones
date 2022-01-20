@@ -6,7 +6,7 @@
 
 | Profundidad |  Superficialidad |
 |-------------------------------------------|-------------------------------------|
-| Lenguajes "opuestos": java y javascritp |  Últimas tecnologías |
+| Lenguajes "opuestos": java y javascript |  Últimas tecnologías |
 | Programación y Diseño "entreverado" | Debates religiosos |
 | Lenguajes previo | Negocio y empresas |
 
@@ -47,10 +47,12 @@
 
 | Roles | Completar |
 |-----|-----|
-| Desarrollador | Pruebas Unitarias: JUnit, Jess |
+| Desarrollador | Pruebas Unitarias: JUnit, Jess, ...; Frameworks: Spring, React, Angular, ... |
 | Arquitecto | Tecnologías: microservicios, CQRS, ... |
 
 ## ¿Cómo?
+
+- [Itinerario](../README.md)
 
 ![cronograma](/images/cronograma.png)
 
