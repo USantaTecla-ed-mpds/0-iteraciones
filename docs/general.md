@@ -71,14 +71,13 @@
 | Qué |___Teoría___ | ___Pragmática___ | ___Pragmática___ | ___Práctica___ | ___Todo___   | ___Todo___   | ___Todo___  |
 | Qué | Conocimiento | Comprensión | Análisis | Síntesis |Evaluación |Evaluación | Evaluación |
 | Cómo | **Castellano** | **Castellano** | **Inglés** | **Inglés** | **Castellano e inglés**   | **Castellano e inglés** | **Castellano e inglés**  |
-| Cómo | _Ordenado_ | _En clase_ | _Juegos_ | _Juegos_ |    | _sin notas_ |    |
-| Cómo | _Relacionado_ | _en diferido_ | _Evollución_ | _Evollución_ |    | _razonar_ |    |
-| Cómo | _Estructurado_ | _todo el temario anterior_ | _Comparacion_ | _Comparacion_ | _respuestas abierto_ | _respuestas abierto_  |    |
+| Cómo | _Ordenado_ | _En clase_ | _Juegos_ | _Juegos_ |  _sin notas_  | _sin notas_ |  _sin notas_  |
+| Cómo | _Relacionado_ | _en diferido_ | _Evolución_ | _Evolución_ |  _razonar_  | _razonar_ |  _razonar_  |
+| Cómo | _Estructurado_ | _todo el temario anterior_ | _Comparacion_ | _Comparacion_ | _respuestas abierto_ | _respuestas abierto_  |  _respuestas abierto_  |
 | Cuándo | Lunes y Viernes | Lunes a Domingo | Viernes a Jueves | Martes a Jueves  | Viernes  | Sábado y Domingo | Viernes y Lunes |
 | Dónde | Clase | Clase y Casa | Clase y Casa | Casa  | Casa | Casa | Clase |
 |Por qué|   | sencillez | comunicación | realimentación | coraje | respeto |     |
 | Para qué |    |Arquitectura Hexagonal | Domain-Driven Design | eXtreme Programming | Test-Driven Development| Refactoring |    |
-
 
 
 | Alumnos | Clase | Proyectos | Crítica | Prueba | Total |
@@ -88,5 +87,18 @@
 | Críticos |  4  |  -  |  2  |  2  |  8  |
 |    | Viernes y Lunes | Martes, Miércoles y Jueves | Viernes |Sábado y Domingo  |     |
 
+| Proyectos | Java, Javascript, ... | 
+|-------|-------|
+| [Simples](https://github.com/USantaTecla-0-domains/0-simpleDomains) | Hola Mundo, echo, prime, ordenación, ...
+| Juegos | [TicTacToe](https://github.com/USantaTecla-0-domains/game-ticTacToe), [Mastermind](https://github.com/USantaTecla-0-domains/game-mastermind), [Damas](https://github.com/USantaTecla-0-domains/game-draughts), Concecta4, Klondike, Ajedrez | Evoluciones |
+| Gestores | [Países](https://github.com/USantaTecla-0-domains/manager-countries), [Tareas](https://github.com/USantaTecla-0-domains/manager-tasks), ... | Evoluciones |
+| Herramientas | [Grid](https://github.com/USantaTecla-0-domains/tool-grid/tree/master/docs), BoxModelCSS, ... | Evoluciones |
 
+| Laboratorios |
+|---------|
+| [lab-lovalce](https://github.com/USantaTecla-ed-mpds/lab-lovalace) |
+| [lab-dijkstra](https://github.com/USantaTecla-ed-mpds/lab-dijkstra) |
+| [lab-chomsky](https://github.com/USantaTecla-ed-mpds/lab-chomsky) |
+| [lab-boole](https://github.com/USantaTecla-ed-mpds/lab-boole) |
+| [lab-turing](https://github.com/USantaTecla-ed-mpds/lab-turing) |
 
