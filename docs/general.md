@@ -1,12 +1,14 @@
 # Master en Programación y Diseño Software
 
+![logo](../images/logo.png "logo")
+
 ## ¿Qué?
 
 |  ___Disciplinas___  | ___Tecnologías___ |
 |---------------|  :-----: |
 | Fundamentos del Software | **UML, PlantUML, XML, JSON, YAML, XPath, XML Schema, SVG, HTML, CSS**   |
-|  Disciplina de Programacion  | **javascript       /     java**  |
-| Disciplina de Diseño   | **DHTML, AJAX, Storage, Swing, Files, SQL, TCP/IP**  |
+|  Disciplina de Programacion  | **javascript / java**  |
+| Disciplina de Diseño   | **DHTML, AJAX, Storage / Swing, TCP/IP, Files, SQL**  |
 
 
 | ___Fundamentos del Software___   | ___Disciplina de Programacion___   | ___Disciplina de Diseño___   |
@@ -15,8 +17,8 @@
 | Conocimiento   | Programación Estructurada   | Diseño Modular   | 
 | Complejidad   | Programación Orientada a Procesos   |  Diseño Orientado a Objetos  | 
 |  Software  | Programación Basada en Objetos   |  Patrones de Diseño  | 
-| Aplicaciones del Software   | Programación Orientada a Objetos   | Arquitectura del Software   | 
-| Tecnologias del Software   | Programación con Excepciones   | Arquitectura MV* | 
+| Disciplinas del Software   | Programación Orientada a Objetos   | Arquitectura del Software   | 
+| Aplicaciones del Software   | Programación con Excepciones   | Arquitectura MV* | 
 |    | Programación Modular  | Frameworks y Librerías   | 
 |    | Programación con Interfaz Gráfica de Usuario    |    | 
 |    | Prorgamación con Comunicaciones  |    | 

@@ -1,5 +1,4 @@
-# Iteraciones
-
+# Master en Programación y Diseño Software
 
 ![logo](images/logo.png "logo")
 
