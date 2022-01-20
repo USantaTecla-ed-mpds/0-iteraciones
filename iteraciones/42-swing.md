@@ -5,7 +5,7 @@
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
 - lunes 16/01/2023
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
-  - [Registro](https://forms.gle/pA2QvsW32P4KtTD77)
+  - [Registro](https://forms.gle/a6sK1Bt4RZ8DJWhV7)
 - martes 17/01/2023 - jueves 19/01/2023
   - Proyectos
   
@@ -17,8 +17,8 @@
 - viernes 20/01/2023
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 21/01/2023 - domingo 22/01/2023
-  - [Prueba](https://forms.gle/hB9UJoN2PYiexctH8)
+  - [Prueba](https://forms.gle/caNWocs2y5nHv1hE6)
 - lunes 23/01/2023
   - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
-  - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Uwtqa5VdD5wK2X7eLgkS6_th16aPnsW8pa5Ft2TyLPo/edit#gid=0)
+  - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Lw9YkkNCc92hoEoH9gTzkpwLKZ4oK89rkQg4HFXDUUA/edit?usp=sharing)
 - [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TYSEFX5J)

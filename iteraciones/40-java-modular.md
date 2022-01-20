@@ -5,7 +5,7 @@
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
 - lunes 28/11/2022
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
-  - [Registro](https://forms.gle/pA2QvsW32P4KtTD77)
+  - [Registro](https://forms.gle/jDYjrryvUxPTesCK9)
 - martes 29/11/2022 - jueves 01/12/2022
   - Proyectos
   
@@ -17,8 +17,8 @@
 - viernes 02/12/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 03/12/2022 - domingo 04/12/2022
-  - [Prueba](https://forms.gle/hB9UJoN2PYiexctH8)
+  - [Prueba](https://forms.gle/jKUC3qB6CFa4Dkzf7)
 - lunes 05/12/2022
   - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
-  - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Uwtqa5VdD5wK2X7eLgkS6_th16aPnsW8pa5Ft2TyLPo/edit#gid=0)
+  - [Solución de Prueba](https://docs.google.com/spreadsheets/d/19pqam7K8_we6ZzdAtAkscdsdEaf0dbQa8M5p6P8gBfs/edit?usp=sharing)
 - [Comunidad](https://app.slack.com/client/T02S3KYD464/C02U96Z50KT)

@@ -29,7 +29,8 @@
 |[39-java-excepciones](iteraciones/39-java-excepciones.md) |[40-java-modular](iteraciones/40-java-modular.md) |
 |[41-java-parametrizada](iteraciones/41-java-parametrizada.md) |[42-swing](iteraciones/42-swing.md) | 
 |[43-files-SQL](iteraciones/43-files-SQL.md) |[44-tcpip](iteraciones/44-tcpip.md) |
-|[45-patronesDiseño](iteraciones/45-patronesDiseño.md) |[46-patronesDiseño](iteraciones/46-patronesDiseño.md) |    |[47-patronesDiseño](iteraciones/47-patronesDiseño.md) |[48-patronesDiseño](iteraciones/48-patronesDiseño.md) |
+|[45-patronesDiseño](iteraciones/45-patronesDiseño.md) |[46-patronesDiseño](iteraciones/46-patronesDiseño.md) |    
+|[47-patronesDiseño](iteraciones/47-patronesDiseño.md) |[48-patronesDiseño](iteraciones/48-patronesDiseño.md) |
 |[49-patronesDiseño](iteraciones/49-patronesDiseño.md) |[50-arquitecturaSoftware](iteraciones/50-arquitecturaSoftware.md) |  
 |[51-arquitecturaMV*](iteraciones/51-arquitecturaMV.md) |[52-arquitecturaMV*](iteraciones/52-arquitecturaMV.md) |
 |[53-javaJavascript-aplicacionesSoftware](iteraciones/53-javaJavascript-aplicacionesSoftware.md) | [54-frameworks-metaProgramacion](iteraciones/54-frameworks-metaProgramacion.md) | 
