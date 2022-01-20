@@ -3,6 +3,8 @@
 
 ![logo](images/logo.png "logo")
 
+- [General](./docs/general.md)
+
 |    |    |
 |----|----|
 |[1-fundamentos-git](iteraciones/01-fundamentos-git.md) | [2-patrones-uml](iteraciones/02-patrones-uml.md) | 
