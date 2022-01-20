@@ -61,6 +61,7 @@
 ![cronograma](/images/cronograma2.png)
 
 [//]: <> (La imagen esta tomada desde https://docs.google.com/spreadsheets/d/1Bf76Kwwq2LgFD-CDOsWngyGrCMHgpqPwAgtCFUtm-yI/edit#gid=1106487868)
+
 | **Dinámicas**   | **Exposición**   | **Preguntas**   | **Ejemplos**   | **Proyectos**   | **Crítica**   | **Prueba**   | **Corrección**   |
 |----|----|----|----|----|----|----|----|
 | Quién |  | Espectador |    |    |    |    |    | 
