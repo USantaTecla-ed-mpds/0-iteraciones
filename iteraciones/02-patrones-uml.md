@@ -3,9 +3,10 @@
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 28/01/2022
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
-- lunes 31/01/2022
   - [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/1-fundamentos/1-patrones)
+- lunes 31/01/2022
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
+  - [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/tech-uml/0-itinerario)
   - [Registro](https://forms.gle/VkTfp6Zh4JcgvrvCA)
 - martes 01/02/2022 - jueves 04/02/2022
    - Proyectos
