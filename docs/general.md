@@ -94,11 +94,11 @@
 | Gestores | [Países](https://github.com/USantaTecla-0-domains/manager-countries), [Tareas](https://github.com/USantaTecla-0-domains/manager-tasks), ... | Evoluciones |
 | Herramientas | [Grid](https://github.com/USantaTecla-0-domains/tool-grid/tree/master/docs), BoxModelCSS, ... | Evoluciones |
 
-| Laboratorios |
+| [Cafetería](https://github.com/USantaTecla-ed-mpds/cafeteria) | | [sala](https://meet.jit.si/lab-lovalace) |
 |---------|
-| [lab-lovalce](https://github.com/USantaTecla-ed-mpds/lab-lovalace) |
-| [lab-dijkstra](https://github.com/USantaTecla-ed-mpds/lab-dijkstra) |
-| [lab-chomsky](https://github.com/USantaTecla-ed-mpds/lab-chomsky) |
-| [lab-boole](https://github.com/USantaTecla-ed-mpds/lab-boole) |
-| [lab-turing](https://github.com/USantaTecla-ed-mpds/lab-turing) |
+| [lab-lovalce](https://github.com/USantaTecla-ed-mpds/lab-lovalace) | [sala](https://meet.jit.si/lab-lovalace) |
+| [lab-dijkstra](https://github.com/USantaTecla-ed-mpds/lab-dijkstra) | [sala](https://meet.jit.si/lab-dijkstra)
+| [lab-chomsky](https://github.com/USantaTecla-ed-mpds/lab-chomsky) | [sala](https://meet.jit.si/lab-chomsky)
+| [lab-boole](https://github.com/USantaTecla-ed-mpds/lab-boole) | [sala](https://meet.jit.si/lab-boole)
+| [lab-turing](https://github.com/USantaTecla-ed-mpds/lab-turing) | [sala](https://meet.jit.si/lab-turing)
 
