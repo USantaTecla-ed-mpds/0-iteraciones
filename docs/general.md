@@ -94,8 +94,8 @@
 | Gestores | [Países](https://github.com/USantaTecla-0-domains/manager-countries), [Tareas](https://github.com/USantaTecla-0-domains/manager-tasks), ... | Evoluciones |
 | Herramientas | [Grid](https://github.com/USantaTecla-0-domains/tool-grid/tree/master/docs), BoxModelCSS, ... | Evoluciones |
 
-| [Cafetería](https://github.com/USantaTecla-ed-mpds/cafeteria) | | [sala](https://meet.jit.si/lab-lovalace) |
-|---------|
+| [Cafetería](https://github.com/USantaTecla-ed-mpds/cafeteria) | [sala](https://meet.jit.si/lab-lovalace) |
+|---------|---------|
 | [lab-lovalce](https://github.com/USantaTecla-ed-mpds/lab-lovalace) | [sala](https://meet.jit.si/lab-lovalace) |
 | [lab-dijkstra](https://github.com/USantaTecla-ed-mpds/lab-dijkstra) | [sala](https://meet.jit.si/lab-dijkstra)
 | [lab-chomsky](https://github.com/USantaTecla-ed-mpds/lab-chomsky) | [sala](https://meet.jit.si/lab-chomsky)
