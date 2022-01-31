@@ -83,8 +83,8 @@
 | Alumnos | Clase | Proyectos | Crítica | Prueba | Total |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | N Espectadores |  4  |  -  |  -  |  -  |  4  |
-| 10 Artistas | 4   |  6 |  -  | 2   |  12  |
-| 5 Críticos |  4  |  -  |  2  |  2  |  8  |
+| 10 Artistas [sorteo](https://docs.google.com/spreadsheets/d/1oGHwqjsQo_sgX38yBHfvaP-z0SIIQXO_pjU-2KJ8DiE/edit?usp=sharing) | 4   |  6 |  -  | 2   |  12  |
+| 5 Críticos [sorteo](https://docs.google.com/spreadsheets/d/1oGHwqjsQo_sgX38yBHfvaP-z0SIIQXO_pjU-2KJ8DiE/edit?usp=sharing) |  4  |  -  |  2  |  2  |  8  |
 |    | Viernes y Lunes | Martes, Miércoles y Jueves | Viernes |Sábado y Domingo  |     |
 
 | Proyectos | Java, Javascript, ... | 
