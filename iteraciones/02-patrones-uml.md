@@ -1,13 +1,13 @@
 # 2-patrones-uml
 
-- [Preguntas](https://escuela.it/master-programacion-diseno-software)
+- [Preguntas](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/patrones-y-uml)
 - viernes 28/01/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
-  - [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/1-fundamentos/1-patrones)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/fundamentos-git)
+  - [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/1-fundamentos)
 - lunes 31/01/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
-  - [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/tech-uml/0-itinerario)
-  - [Registro](https://forms.gle/VkTfp6Zh4JcgvrvCA)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/patrones-y-uml)
+  - [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/tech-uml)
+  - [Registro](https://forms.gle/ZyqnArPTTyC8kd1f8)
 - martes 01/02/2022 - jueves 04/02/2022
    - Proyectos
   
