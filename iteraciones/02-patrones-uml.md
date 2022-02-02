@@ -11,6 +11,7 @@
 - martes 01/02/2022 - jueves 04/02/2022
    - Proyectos
   
+  - [Equipos-unidad](https://docs.google.com/spreadsheets/d/1lu233Csy6gqZ_yA9GLpfLsDPBaEscGsOCkjfG0Us-ws/edit#gid=0)
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|cafeteria|
   |-------|---------|------------|----------|-----------|--------------|--------------|
   | game-connect4 |[proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-uml/game-connect4) |[proyecto](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/tech-uml/game-connect4) | [proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-uml/game-connect4)|[proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-uml/game-connect4) |[proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-uml/game-connect4) |[Crítica](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/tech-uml/game-connect4) |
