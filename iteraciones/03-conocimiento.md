@@ -8,7 +8,7 @@
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
   - [Registro](https://forms.gle/1GpVexaiGTJf6ien7)
 - martes 08/02/2022 - jueves 10/02/2022
-   - Proyectos
+   - [Proyectos](https://docs.google.com/spreadsheets/d/1pO2cN3EYCQqJYzt-aMQJNOiAq9zzf5eGxUHA4CvifEA/edit?usp=sharing)
       - [ImperativeGrid](https://forms.gle/c4xEXQrSyTKgQBaT9)
 
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
