@@ -5,7 +5,7 @@
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/conocimiento)
   - [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/1-fundamentos/2-conocimiento)
 - lunes 07/02/2022
-  - [Exposición]()
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/conocimiento)
   - [Registro](https://forms.gle/1GpVexaiGTJf6ien7)
 - martes 08/02/2022 - jueves 10/02/2022
    - [Proyectos](https://docs.google.com/spreadsheets/d/1pO2cN3EYCQqJYzt-aMQJNOiAq9zzf5eGxUHA4CvifEA/edit?usp=sharing)
