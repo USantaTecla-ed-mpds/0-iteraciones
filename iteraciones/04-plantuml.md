@@ -1,8 +1,8 @@
 # 4-plantuml
 
-- [Preguntas](https://escuela.it/master-programacion-diseno-software)
+- [Preguntas](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/plantuml)
 - viernes 11/02/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/plantuml)
 - lunes 14/02/2022
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
   - [Registro](https://forms.gle/FX2XQCgAtrhjNwgu9)

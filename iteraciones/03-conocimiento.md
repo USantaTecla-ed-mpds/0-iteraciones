@@ -17,7 +17,7 @@
   | game-klondike |[proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-uml/game-klondike)    |[proyecto](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/tech-uml/game-klondike)         |[proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-uml/game-klondike)           |[proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-uml/game-klondike)    |[proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-uml/game-klondike) | [crítica](https://github.com/USantaTecla-ed-mpds/cafeteria/blob/master/tech-uml/game-klondike/3-conocimiento.md#cr%C3%ADticas)|
 
 - viernes 11/02/2022
-  - [Corrección de Proyectos](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/plantuml)
+  - [Corrección de Proyectos](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/conocimiento)
 - sabado 12/02/2022 - domingo 13/02/2022
   - [Prueba](https://forms.gle/9jv8jSSU89mxmrYX8)
 - lunes 14/02/2022
