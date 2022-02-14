@@ -7,7 +7,7 @@
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
   - [Registro](https://forms.gle/FX2XQCgAtrhjNwgu9)
 - martes 15/02/2022 - jueves 17/02/2022
-  - Proyectos
+  - [Proyectos](https://docs.google.com/spreadsheets/d/1PXH4SUsryWOpOwO9rtNUSzg4TvzqFVZPLnKFYU08FUA/edit?usp=sharing)
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|   críticos |
   |-------|---------|------------|----------|-----------|--------------|--------------|
