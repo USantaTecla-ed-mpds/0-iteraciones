@@ -21,7 +21,7 @@
 - sabado 12/02/2022 - domingo 13/02/2022
   - [Prueba](https://forms.gle/9jv8jSSU89mxmrYX8)
 - lunes 14/02/2022
-  - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
+  - [Corrección de Prueba](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/conocimiento)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/19noU1h53QP9E801DbJadEqRsMKlfKnfyW1QZR9hX6Yc/edit#gid=0)
 - [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TRC3TFTK)
 

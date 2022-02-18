@@ -4,7 +4,7 @@
 - viernes 11/02/2022
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/plantuml)
 - lunes 14/02/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/plantuml)
   - [Registro](https://forms.gle/FX2XQCgAtrhjNwgu9)
 - martes 15/02/2022 - jueves 17/02/2022
   - [Proyectos](https://docs.google.com/spreadsheets/d/1PXH4SUsryWOpOwO9rtNUSzg4TvzqFVZPLnKFYU08FUA/edit?usp=sharing)
