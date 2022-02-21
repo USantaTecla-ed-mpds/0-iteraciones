@@ -1,4 +1,4 @@
-@@startuml 7
+@startuml 7
 
 object masterPDS
 object "luis:Teacher" as luis
