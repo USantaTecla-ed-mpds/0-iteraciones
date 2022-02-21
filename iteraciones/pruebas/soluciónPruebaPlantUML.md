@@ -79,9 +79,9 @@ meninas *-- planeC
 
 * **borxdev**
 
-[enlace-1](link:https://github.com/borxdev/master-escuelait/tree/main/4_meninas)
+[enlace-1](https://github.com/borxdev/master-escuelait/tree/main/4_meninas)
 
-[enlace-2](link:https://www.plantuml.com/plantuml/svg/TL91QiCm4Bph5JeNv1S4aq2XbmGAXTwtzk9kQw_TrTg5_2PloSUgHBOgDyt9sfdPOMVmrYk8ZbrhM_07P6Bmhd_xm4gzgmaQWSuO9MtHxi7RMLBOLspFf-FNY4TZejvEs494Pa3VyHc8bRZP9_UCVAcGCMqJVgCiqsVOIT91Y2lq_W3IW932GdYKwMfU4oPrHtM3kkFwiM-Ia5HH0lOqWeHOl13XN6I_6uO-t8dfcD09ULsc2dY2p5-a5sDIt8rpipv1rhdoJdmJWsvS6JF6iIZAE_9_uOVWdmeqo-k2pfVaq6rzERlkC6TMHQvMRjfShrtxoQ6_BUVSNAw9tmiIUub1VWNHDblO8jVXn_q1)
+[enlace-2](https://www.plantuml.com/plantuml/svg/TL91QiCm4Bph5JeNv1S4aq2XbmGAXTwtzk9kQw_TrTg5_2PloSUgHBOgDyt9sfdPOMVmrYk8ZbrhM_07P6Bmhd_xm4gzgmaQWSuO9MtHxi7RMLBOLspFf-FNY4TZejvEs494Pa3VyHc8bRZP9_UCVAcGCMqJVgCiqsVOIT91Y2lq_W3IW932GdYKwMfU4oPrHtM3kkFwiM-Ia5HH0lOqWeHOl13XN6I_6uO-t8dfcD09ULsc2dY2p5-a5sDIt8rpipv1rhdoJdmJWsvS6JF6iIZAE_9_uOVWdmeqo-k2pfVaq6rzERlkC6TMHQvMRjfShrtxoQ6_BUVSNAw9tmiIUub1VWNHDblO8jVXn_q1)
 
 
 
@@ -147,6 +147,51 @@ Canvas o--> mirror
 
 
 ## Pregunta Nº2
+
+- Dada la tabla de verdad (combinaciones de cierto y falso) de la "puerta" XOR (especificación en tabla verde de https://es.wikipedia.org/wiki/Puerta_XOR), escribe la expresión lógica de la salida (tercera columna) correspondiente a la entrada (primeras 2 columnas)
+
+* **anónimo**
+
+A <> B = 1
+
+
+* **lfcv00007**
+
+
+* **anggilb**
+
+s = a.!b + !a.b
+
+
+
+* *asanera*
+
+Q = (A ⊕ B) = A.B + A.B
+
+
+* **borxdev**
+
+~A && B || A && ~B
+
+
+* **mabernabe**
+
+SALIDA = (A && !B) || (!A && B
+
+
+
+* **diego-novoa**
+
+
+* **anónimo**
+
+A == B = O
+A != B = 1
+....
+
+* **lab-lovalace**
+
+a XOR b = (a AND NOT b) OR (NOT a AND b)
 
 
 
