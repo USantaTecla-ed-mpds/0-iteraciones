@@ -42,7 +42,7 @@
 
 [diagrama](../pruebas/anonimo/3.svg)
 
-* *lab-lovalace*
+* **lab-lovalace**
 
 [enlace](https://github.com/USantaTecla-ed-mpds/lab-lovalace/blob/master/20220217_Meninas.pdf) .. El archivo es el que se llama 20220217_Meninas.pdf
 
