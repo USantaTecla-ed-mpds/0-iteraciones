@@ -53,49 +53,49 @@
 - Dada la tabla de verdad (combinaciones de cierto y falso) de la "puerta" XOR (especificación en tabla verde de https://es.wikipedia.org/wiki/Puerta_XOR), escribe la expresión lógica de la salida (tercera columna) correspondiente a la entrada (primeras 2 columnas)
 
 * **anónimo**
-
+~~~~
 A <> B = 1
-
+~~~~
 
 * **lfcv00007**
 
 
 * **anggilb**
-
+~~~~
 s = a.!b + !a.b
-
+~~~~
 
 
 * **asanera**
-
+~~~~
 Q = (A ⊕ B) = A.B + A.B
-
+~~~~
 
 * **borxdev**
-
+~~~~
 A && B || A && B
-
+~~~~
 
 * **mabernabe**
-
+~~~~
 SALIDA = (A && !B) || (!A && B
-
+~~~~
 
 
 * **diego-novoa**
-
+~~~~
+~~~~
 
 * **anónimo**
-
+~~~~
 A == B = O
 A != B = 1
-....
+~~~~
 
 * **lab-lovalace**
-
+~~~~
 a XOR b = (a AND NOT b) OR (NOT a AND b)
-
-
+~~~~
 
 ## Pregunta Nº3
 
@@ -108,49 +108,47 @@ a XOR b = (a AND NOT b) OR (NOT a AND b)
 * **anónimo**
 
 
-....
+~~~~
 
  Para el diagrama de clases se debería agregar abstracciones para los animales de una granja, si bien la relación no es del todo errónea se entiende que el granjero no puede cuidar a cualquier animal. 
 
  Para el diagrama de objetos los animales se deben asociar al granjero, se entiende que el granjero cuida a los animales por ende la relación jerárquica debiese ser de los animales hacia al granjero.
 
-....
+~~~~
 
 * **lfcv00007**
 
-....
+~~~~
 
 En el diagrama de objetos sobraría la herencia a Humano (ya que es abstracto)
 
-....
+~~~~
 
 
 * **anggilb**
 
-....
+~~~~
 
 Humano no es una clase abstracta.
 La relación Humano y Granjero no debería ser de herencia, sino que granjero fuera la profesión del humano
 
-....
+~~~~
 
 
 * **asanera**
 
-
-....
+~~~~
 
 Se debe usar el inglés
 El nombre de los objetos debe comenzar en minúscula.
 Las clases abstractas no se pintan en un diagrama de estados (por la calle no ves un humano, ves a Pepe o a Juani)
 
-....
+~~~~
 
 
 * **borxdev**
 
-
-....
+~~~~
 
 - Debería estar escrito en inglés.
 - Animal debería ser también una clase abstracta.
@@ -158,44 +156,44 @@ Las clases abstractas no se pintan en un diagrama de estados (por la calle no ve
 - Los objetos no tienen relación de herencia. TioEugenio:Granjero no podría heredar de TioEugenio:Humano.
 - Los objetos se escriben con la inicial en minúscula?
 
-....
+~~~~
 
 * **mabernabe**
 
-....
+~~~~
 
 Humano en el diagrama de clases es una clase abstracta, es incorrecto que en el diagrama de objetos aparezca un objeto de la clase Humano. Ni pueden aparecer nunca relaciones de herencia entre objetos.  Y podrían aparecer dos objetos iguales (mismo estado) pero no dos objetos que son el mismo (TioEugenio, con la misma identidad). 
 
-....
+~~~~
 
 
 * **diego-novoa**
 
-....
+~~~~
 
 El diagrama de estados, es una jerarquía de Composición: unión de objetos  y debería ser una Jerarquía de Clasificación
 
-....
+~~~~
 
 
 * **anónimo**
 
-....
+~~~~
 
 La clase Humano es abstracta, no puede tener objetos.
 Los objetos no tienen relación de herencia.
 
-....
+~~~~
 
 * **lab-lovalace**
 
-....
+~~~~
 
 La clase animal es una clase abstracta. Si la clase animal es una clase abstracta Porky y Donald no se pueden instanciar de esa clase. Es necesario crear otra clase que se puede llamar "Animalesdomésticos" que herede de animales.
 La relación de asociación entre granjero y animal no va. Un granjero no cuida de todos los posibles animales existentes.
 la instanciación del Tío Eugenio de la clase Humano no es posible, porque la clase humano es una clase abstracta. Además no es posible instanciar un objeto dos veces.
 
-....
+~~~~
 
 ## Pregunta Nº4
 
@@ -219,33 +217,28 @@ la instanciación del Tío Eugenio de la clase Humano no es posible, porque la c
 
 * **asanera**
 
-[source]
-....
+~~~~
 
-....
+~~~~
 
 * **borxdev**
 
-[source]
-....
+~~~~
 Mis disculpas. No tuve tiempo de más.
-....
+~~~~
 
 * **mabernabe**
-[cols="50,50"]
-|===
 
-a|
 [clases](https://www.planttext.com/api/plantuml/svg/ZL9DImCn4BtFhmWv5hAWA5waj5JeIIZRgkSnEzqDpKuaoL94_Uyc-wKdRGwJUPDvl9T9LY6YZrrh0NRUrHxRrd2zvkg1Wgdv4KCaBnQgScTMItbx8yKJc_XNirDANXK5Ix6FNKNyNxCu4Eg6_4K6xgJOEhGNzGucjYOstMj9RowOwFpxHTHitg8-RHfa9XiWYwh-8D6FnqHoZ3Rdnj9qsazclCq4SqZv2z6fpnS972Z46OYTHnsDfhaYh-MUGbQ0SS_LahJpLJ8DurYBObcw99x3f9Rp-q-brZwQy0EV3PtJW2UuyIO90WnxuiuM1jxl2cYB8VIFBZv02CQMu0lIMX5N_SVv1W00)
 
-a|
+
 [estado](https://www.planttext.com/?text=TLDTIyCm57tFhxZqSR1Wf-ABZBaE5KGOi-1pjaGepNAXI_N57szkKjicP2yfd7FFkP_TNApeR7_MZBrfDB9f5IoM4d_CSWr5MS2dk5XrXTkfKvkZ7WhODpghkYlW6NiZXMtGP09UK6X6udacpfrZ9JgPSxnV3HmzSQOFsxW24zovbRS578HfcG-Ok0erTio_yFWRK3WecK9RBPmlbGh_qgUJRoXyuYczuxTYz03NwiloTIZN3nPmZBpXV35qGdETCUN4JBEBUUh81_WyOw4-Hur-Jrd6hobc2AfnjgIOdeYiUl2zAgTIQWn7bSlhBSDQHkPLkHDDmLqZpkuMKdZlZYF5AjqVcJSPrqLB7HmYZEGZ4DPCwWHYRAECf9_c3m00)
 
-|===
+
 
 * **diego-novoa**
-....
-....
+~~~~
+~~~~
 
 
 * **anónimo**
@@ -254,9 +247,9 @@ a|
 
 * **lab-lovalace**
 
-....
+~~~~
 
-....
+~~~~
 
 
 ## Pregunta Nº5
@@ -265,39 +258,39 @@ a|
 
 * **anónimo**
 
-....
+~~~~
 
 A partir del conocimiento se descubren patrones patrones, saber identificar los elementos conocer sus características determinar comportamientos aumenta nuestro conocimiento y a su vez nos facilita la labor de encontrar patrones
 
-....
+~~~~
 
 * **lfcv00007**
 
-....
+~~~~
 
-....
+~~~~
 
 
 * **anggilb**
 
-....
+~~~~
 
 Pirámide de DICS: Datos < Información < Conocimiento < Sabiduría. En estos 4 niveles existen diferentes tipos de patrones que se repiten de forma recurrente en la vida real y cuyo aprendizaje puede facilitar el ascender al siguiente nivel de la pirámide anteriormente descrita, para cualquier área del conocimiento.
 
-....
+~~~~
 
 
 * **asanera**
 
-....
+~~~~
 
 Por el conocimiento y a través de la piramide de DICK podemos crear patrones, ya que el conocimiento da la capacidad de crear jerarquías, clasificaciones y herencias de diferentes conjuntos y objetos dando la capacidad al ser humano de poder abstraerse y modelar una solución común para implementarlas en diferentes escenarios.
 
-....
+~~~~
 
 * **borxdev**
 
-....
+~~~~
 
 - Todo se agrupa y se relaciona en conjuntos.
 - Un Conjunto es una colección... que se asocia por algún patrón.
@@ -306,21 +299,21 @@ Por el conocimiento y a través de la piramide de DICK podemos crear patrones, y
 - Un Objeto es un ejemplar de una Clase, con estado definido... Es un conjunto de elementos que son otros objetos, que a su vez son objetos, y así continua siguiendo un patrón recursivo.
 - Los procesos y algoritmos también son conjuntos. Las jerarquías se basan en conjuntos.
 
-....
+~~~~
 
 * **mabernabe**
 
-....
+~~~~
 
 Las señales físicas que percibimos por los sentidos (ya hablamos de ellas en la unidad de patrones) dejan de ser ruido cuando se convierte en patrón, con formato reconocible, un dato. 
  Con un lenguaje como UML (que empezamos a ver en patrones) podemos organizar los datos para darles significado y convertirlos en información.
  El conocimiento usa la información y es necesario para dar soluciones eficaces y eficientes (conceptos que vimos en patrones) en todos los sectores de producción.
 Con conjuntos podemos describir todo, incluyendo los patrones, clases, clases abstractas, objetos, jerarquías de clasificación y composición que ya vimos en la unidad de patrones
 
-....
+~~~~
 
 * **diego-novoa**
-....
+~~~~
 
 Patrones
 
@@ -330,24 +323,23 @@ Procesos son actividades a realizar y Algoritmos son instrucciones a ciertas act
 Igualdad, conjunto de objetos iguales o idénticos de un patrón de la vida real a extraer con un Modelo del Dominio, que Describe los conceptos más importantes del Objetos de negocio y Objetos del mundo real y conceptos con Tipos de Patrones, Iterativos que se repiten, los Patrones Recursivos que se repiten en sí mismos o recurrentes que se repiten al principio o al final esporádicamente.
 Patrones Sencillos ,Interfaz Gráfica de Usuario son lineal, triangular o circular se utilizan en Tipos de Datos, Estructuras de Datos, Sentencias de Control de Flujo de Ejecución, Recursividad en Procesos, Recursividad en Datos, Metodologías de Desarrollo en el Conocimiento la humanidad busaca la autorrealización, Pirámide de Maslow, pero Pirámide DIKW busca poner orden caos, a través de un Lenguaje Formal,  expresiones Regulares en Sectores Productivos con un Conjunto colección desordenada de elementos no repetidos, con Tipos de Conjuntos de extensión y compresión,           Objetos conjunto de elementos que son otros objetos que a su vez … recursivamente y Clases conjunto cuyos elementos son las características comunes de otro conjunto de objetos similares y Clases Abstractas conjunto intersección de características comunes          Jerarquías de Composición unión de los objetos partes del todo vs Clasficación intersección de las características de las clases similares, Jerarquías de Agregación Un objeto parte pertenece a varios objetos todo y Clasificación Múltiple Un clase descendiente comparte características con varias clases base, Relación de Asociación colaboración entre objetos, Álgebra de Boole , Estrategias de Clasificación , Historia de la Ciencia , Método Científico de Galileo, Método Cartesiano, Ciclo de Deming , Paradigmas de Khun, Dialéctica Hegeliana
 
-....
+~~~~
 
 
 * **anónimo**
 
-....
+~~~~
 
 En Patrones hemos visto que un patrón es un modelo abstracto y su clasificación según su reusabilidad (recurrente, iterativo, recursivo) y en Conocimiento aprendemos a ordenar esos patrones y relacionarlos entre ellos según las jerarquías de clasificación y composición.
 
-....
+~~~~
 
 * **lab-lovalace**
 
-....
-
+~~~~
 Un patrón es una abstracción de una forma concreta de solución que se repite en contextos específicos, pero el patrón en un momento llega a ser insuficiente para solucionar todos los posibles casos, ejemplo cuando se analizo el caso del ornitorrinco que es un mamífero que se desenmarca de la clasificación de esta especie. Cuando lo anterior ocurre, es necesario construir más patrones  que se pueden aglutinar formando colecciones que constituyen un vocabulario para comprender y comunicar ideas, con base en esas ideas se construye conocimiento. 
 
-....
+~~~~
 
 
 
