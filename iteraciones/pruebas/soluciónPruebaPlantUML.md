@@ -11,11 +11,12 @@
 
 [plantuml,lfcv00007,svg ]
 ....
-
+@startuml
 Picture *--> "n" Character : composed by >
 Observer --> Picture  : observe >
 Character *--> Position
 Character --> Observer : look at >
+@enduml
 ....
 
 
@@ -295,10 +296,288 @@ la instanciación del Tío Eugenio de la clase Humano no es posible, porque la c
 
 ....
 
-
-
-
 ## Pregunta Nº4
+
+- Realiza un modelo (...esencial ... aproximadamente, no más de 20 tipos de entidad y algún diagrama de actividad o estados para algún proceso) de este mismo master de Programación y Diseño del Software
+
+* **anónimo**
+
+[cols="50,50"grid=none, frame=none]
+|===
+
+a|
+[plantuml, anonimo,svg]
+....
+"class diagram"
+    Class *-- Unit
+    Class *-- Master
+    Class *-- Cordinator
+    Class <- Student : take <
+
+    Unit *-- Session
+    Unit *-- Proyect
+    Unit *-- Exam
+....
+
+a|
+[plantuml, anonimo1,svg]
+....
+actor Student #red
+
+Student -> Class: Subscribe
+
+Class -> Master:
+
+Master -> Unit: Init
+activate Unit
+
+Unit -> Session: Start
+activate Session
+
+Session -> Unit: End
+deactivate Session
+
+Unit -> Proyect: Init
+activate Proyect
+
+Proyect -> Unit: end
+deactivate Proyect
+
+Unit -> Exam: Init
+activate Exam
+
+Exam -> Unit: End
+deactivate Exam
+
+Unit -> Master: End
+deactivate Unit
+
+Master -> Student: End Unit
+deactivate Unit
+....
+|===
+
+* **lfcv00007**
+
+[plantuml, lfcv00007, svg]
+....
+
+MasterProgramacionYDiseñoSoftware *--> "n" Alumno : matricula >
+MasterProgramacionYDiseñoSoftware *--> "54" Unidad : tiene >
+MasterProgramacionYDiseñoSoftware *--> Profesor
+
+Unidad *--> Teoria        
+Unidad *-down-> Practica
+Unidad *-down-> Examen
+
+Alumno <|-- Espectador
+Alumno <|-- Critico
+Alumno <|-- Artista
+
+Alumno ..-> Unidad : asiste >
+
+
+Practica <-- Critico : critica <
+Practica <-- Artista : realiza <
+
+Examen <-- Critico 
+Examen <-- Artista 
+
+Profesor --> Unidad : imparte >
+....
+
+* **anggilb**
+
+link:https://www.plantuml.com/plantuml/uml/TPBDIWCn4CVlynHx5l82ug6Ww4aej2TlizcXcpgRI3uM5dnuZPaqST5Bq_dz__F1p1v2H1_JmW2QCOJX5KCa3-KPxeSfUOp6sKP-CfumKaEBcv1Dt1h15GtZQ7vJHdj9UAMEq4gttcT2FPE7ycRPua9GtNTAtInrMZSbfjuWHFJ7_0k5PLc0g4UFEXfDrU2KQgmEqR7lWJoj9X00ZY5cEfoTuzfVgH9A-HEZVeTCXeTFfIGMySsvfMab5Ed5n3cDJHJGjgHdwzXTDcX_wwva4gTKxvFCPsEHZzvTIKVe0yaUzd0YDYlvhR-sKl_NoM8x7gt8gNmyTICnJMGZoFl7q7l7lbkz76wdD0RjpKUktzlt4Xp8JcdXBm00[enlace-1]
+
+
+
+* **asanera**
+
+[source]
+....
+
+....
+
+* **borxdev**
+
+[source]
+....
+Mis disculpas. No tuve tiempo de más.
+....
+
+* **mabernabe**
+[cols="50,50"]
+|===
+
+a|
+link:https://www.planttext.com/api/plantuml/svg/ZL9DImCn4BtFhmWv5hAWA5waj5JeIIZRgkSnEzqDpKuaoL94_Uyc-wKdRGwJUPDvl9T9LY6YZrrh0NRUrHxRrd2zvkg1Wgdv4KCaBnQgScTMItbx8yKJc_XNirDANXK5Ix6FNKNyNxCu4Eg6_4K6xgJOEhGNzGucjYOstMj9RowOwFpxHTHitg8-RHfa9XiWYwh-8D6FnqHoZ3Rdnj9qsazclCq4SqZv2z6fpnS972Z46OYTHnsDfhaYh-MUGbQ0SS_LahJpLJ8DurYBObcw99x3f9Rp-q-brZwQy0EV3PtJW2UuyIO90WnxuiuM1jxl2cYB8VIFBZv02CQMu0lIMX5N_SVv1W00[clases]
+
+a|
+link:https://www.planttext.com/?text=TLDTIyCm57tFhxZqSR1Wf-ABZBaE5KGOi-1pjaGepNAXI_N57szkKjicP2yfd7FFkP_TNApeR7_MZBrfDB9f5IoM4d_CSWr5MS2dk5XrXTkfKvkZ7WhODpghkYlW6NiZXMtGP09UK6X6udacpfrZ9JgPSxnV3HmzSQOFsxW24zovbRS578HfcG-Ok0erTio_yFWRK3WecK9RBPmlbGh_qgUJRoXyuYczuxTYz03NwiloTIZN3nPmZBpXV35qGdETCUN4JBEBUUh81_WyOw4-Hur-Jrd6hobc2AfnjgIOdeYiUl2zAgTIQWn7bSlhBSDQHkPLkHDDmLqZpkuMKdZlZYF5AjqVcJSPrqLB7HmYZEGZ4DPCwWHYRAECf9_c3m00[estado]
+
+|===
+
+* **diego-novoa**
+....
+....
+
+
+* **anónimo**
+[plantuml, segundoAnonimo, svg]
+....
+object masterPDS
+object "luis:Teacher" as luis
+object ":Temary" as Temary
+object ":Practice" as Practice
+object ":Viewer" as Viewer1
+object ":Viewer" as Viewer2
+object ":Viewer" as Viewer3
+object ":Viewer" as Viewer4
+object ":Artist" as Artist1
+object ":Artist" as Artist2
+object ":Artist" as Artist3
+object ":Artist" as Artist4
+object ":Reviewer" as Reviewer1
+object ":Reviewer" as Reviewer2
+object ":Solution" as Solution1
+object ":Solution" as Solution2
+
+masterPDS *--> luis
+masterPDS *--> Viewer1
+masterPDS *--> Viewer2
+masterPDS *--> Viewer3
+masterPDS *--> Viewer4
+masterPDS *--> Artist1
+masterPDS *--> Artist2
+masterPDS *--> Artist3
+masterPDS *--> Artist4
+masterPDS *--> Reviewer1
+masterPDS *--> Reviewer2
+masterPDS *--> Temary
+
+Temary *--> Practice
+
+luis --> Temary
+Viewer1 ..> Temary
+Viewer2 ..> Temary
+Viewer3 ..> Temary
+Viewer4 ..> Temary
+
+Reviewer1 ..> Temary
+Reviewer1 --> Solution1
+Reviewer2 ..> Temary
+Reviewer2 --> Solution2
+
+Artist1 ..> Temary
+Artist2 ..> Temary
+Artist3 ..> Temary
+Artist4 ..> Temary
+
+Practice *--> Solution1
+Practice *--> Solution2
+Solution1 *--> Artist1
+Solution1 *--> Artist2
+Solution2 *--> Artist3
+Solution2 *--> Artist4
+....
+
+* **lab-lovalace**
+
+....
+
+....
 
 
 ## Pregunta Nº5
+
+- Relaciona, con aproximadamente 50 palabras, las unidades de Patrones y Conocimiento vistos anteriormente
+
+* **anónimo**
+
+....
+
+A partir del conocimiento se descubren patrones patrones, saber identificar los elementos conocer sus características determinar comportamientos aumenta nuestro conocimiento y a su vez nos facilita la labor de encontrar patrones
+
+....
+
+* **lfcv00007**
+
+....
+
+....
+
+
+* **anggilb**
+
+....
+
+Pirámide de DICS: Datos < Información < Conocimiento < Sabiduría. En estos 4 niveles existen diferentes tipos de patrones que se repiten de forma recurrente en la vida real y cuyo aprendizaje puede facilitar el ascender al siguiente nivel de la pirámide anteriormente descrita, para cualquier área del conocimiento.
+
+....
+
+
+* **asanera**
+
+....
+
+Por el conocimiento y a través de la piramide de DICK podemos crear patrones, ya que el conocimiento da la capacidad de crear jerarquías, clasificaciones y herencias de diferentes conjuntos y objetos dando la capacidad al ser humano de poder abstraerse y modelar una solución común para implementarlas en diferentes escenarios.
+
+....
+
+* **borxdev**
+
+....
+
+- Todo se agrupa y se relaciona en conjuntos.
+- Un Conjunto es una colección... que se asocia por algún patrón.
+- Un Patrón es un modelo (una clase, un conjunto) que sirve de muestra para sacar otra cosa igual (un objeto, otro conjunto).
+- Una Clase es un conjunto cuyos elementos son las características comunes de otro conjunto de objetos similares.
+- Un Objeto es un ejemplar de una Clase, con estado definido... Es un conjunto de elementos que son otros objetos, que a su vez son objetos, y así continua siguiendo un patrón recursivo.
+- Los procesos y algoritmos también son conjuntos. Las jerarquías se basan en conjuntos.
+
+....
+
+* **mabernabe**
+
+....
+
+Las señales físicas que percibimos por los sentidos (ya hablamos de ellas en la unidad de patrones) dejan de ser ruido cuando se convierte en patrón, con formato reconocible, un dato. 
+ Con un lenguaje como UML (que empezamos a ver en patrones) podemos organizar los datos para darles significado y convertirlos en información.
+ El conocimiento usa la información y es necesario para dar soluciones eficaces y eficientes (conceptos que vimos en patrones) en todos los sectores de producción.
+Con conjuntos podemos describir todo, incluyendo los patrones, clases, clases abstractas, objetos, jerarquías de clasificación y composición que ya vimos en la unidad de patrones
+
+....
+
+* **diego-novoa**
+....
+
+Patrones
+
+Objetos son ejemplares de una Clase que tiene propiedades y comportamientos que se clasifican heredan, colaboran tienen un uso, asociación y composición 
+Tienen unos Valores Longitud: metro, Sustancia: mol, Masa: kilogramo, Tiempo: segundo, Temperatura: kelvin, Luminosidad: candela, Electricidad: amperio y Unidades de ubicación 
+Procesos son actividades a realizar y Algoritmos son instrucciones a ciertas actividades 
+Igualdad, conjunto de objetos iguales o idénticos de un patrón de la vida real a extraer con un Modelo del Dominio, que Describe los conceptos más importantes del Objetos de negocio y Objetos del mundo real y conceptos con Tipos de Patrones, Iterativos que se repiten, los Patrones Recursivos que se repiten en sí mismos o recurrentes que se repiten al principio o al final esporádicamente.
+Patrones Sencillos ,Interfaz Gráfica de Usuario son lineal, triangular o circular se utilizan en Tipos de Datos, Estructuras de Datos, Sentencias de Control de Flujo de Ejecución, Recursividad en Procesos, Recursividad en Datos, Metodologías de Desarrollo en el Conocimiento la humanidad busaca la autorrealización, Pirámide de Maslow, pero Pirámide DIKW busca poner orden caos, a través de un Lenguaje Formal,  expresiones Regulares en Sectores Productivos con un Conjunto colección desordenada de elementos no repetidos, con Tipos de Conjuntos de extensión y compresión,           Objetos conjunto de elementos que son otros objetos que a su vez … recursivamente y Clases conjunto cuyos elementos son las características comunes de otro conjunto de objetos similares y Clases Abstractas conjunto intersección de características comunes          Jerarquías de Composición unión de los objetos partes del todo vs Clasficación intersección de las características de las clases similares, Jerarquías de Agregación Un objeto parte pertenece a varios objetos todo y Clasificación Múltiple Un clase descendiente comparte características con varias clases base, Relación de Asociación colaboración entre objetos, Álgebra de Boole , Estrategias de Clasificación , Historia de la Ciencia , Método Científico de Galileo, Método Cartesiano, Ciclo de Deming , Paradigmas de Khun, Dialéctica Hegeliana
+
+....
+
+
+* **anónimo**
+
+....
+
+En Patrones hemos visto que un patrón es un modelo abstracto y su clasificación según su reusabilidad (recurrente, iterativo, recursivo) y en Conocimiento aprendemos a ordenar esos patrones y relacionarlos entre ellos según las jerarquías de clasificación y composición.
+
+....
+
+* **lab-lovalace**
+
+....
+
+Un patrón es una abstracción de una forma concreta de solución que se repite en contextos específicos, pero el patrón en un momento llega a ser insuficiente para solucionar todos los posibles casos, ejemplo cuando se analizo el caso del ornitorrinco que es un mamífero que se desenmarca de la clasificación de esta especie. Cuando lo anterior ocurre, es necesario construir más patrones  que se pueden aglutinar formando colecciones que constituyen un vocabulario para comprender y comunicar ideas, con base en esas ideas se construye conocimiento. 
+
+....
+
+
+
