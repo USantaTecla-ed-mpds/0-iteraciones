@@ -19,7 +19,7 @@
   - [Prueba](https://forms.gle/dJXMeJaRNyXLWCzH7)
 - lunes 21/02/2022
   - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
-  - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Uwtqa5VdD5wK2X7eLgkS6_th16aPnsW8pa5Ft2TyLPo/edit?usp=sharing)
+  - [Solución de Prueba](../iteraciones/pruebas/soluciónPruebaPlantUML.md)
 - [Comunidad](https://app.slack.com/client/T02S3KYD464/C02SY4QES31)
 
 
