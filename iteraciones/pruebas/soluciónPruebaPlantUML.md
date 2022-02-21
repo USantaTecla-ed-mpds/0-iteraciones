@@ -200,82 +200,99 @@ a XOR b = (a AND NOT b) OR (NOT a AND b)
 
 - Comenta la posible incorrección del siguiente diagrama: 
 
-link:https://www.planttext.com/api/plantuml/svg/RP7D2eCm48Jl-nIBzxo0b6AXHOyzz5vM8n8RioM9s48Vlchyg_IKPUPRTeOapfFrRQC1I6lkxerwALC159gSmvDH3McWt7bBXSUWPcr3XYSajMJgqZ90WF7m4P8x8sOiFAkyBimJ2d6SJc6CHQia0N1Ub_t5wChsyOw36o4vV0x2Of_PaDxQSX3aujyKNzggD8hZ46I4_A9c_yWvs8vD0JQBGoE1F_Pc7ZkDKPTAUpSaNHj3KXhPVyKN[diagrama]
+[diagrama](https://www.planttext.com/api/plantuml/svg/RP7D2eCm48Jl-nIBzxo0b6AXHOyzz5vM8n8RioM9s48Vlchyg_IKPUPRTeOapfFrRQC1I6lkxerwALC159gSmvDH3McWt7bBXSUWPcr3XYSajMJgqZ90WF7m4P8x8sOiFAkyBimJ2d6SJc6CHQia0N1Ub_t5wChsyOw36o4vV0x2Of_PaDxQSX3aujyKNzggD8hZ46I4_A9c_yWvs8vD0JQBGoE1F_Pc7ZkDKPTAUpSaNHj3KXhPVyKN)
 
 
-* *anónimo*
+* **anónimo**
 
 
 ....
+
  Para el diagrama de clases se debería agregar abstracciones para los animales de una granja, si bien la relación no es del todo errónea se entiende que el granjero no puede cuidar a cualquier animal. 
 
  Para el diagrama de objetos los animales se deben asociar al granjero, se entiende que el granjero cuida a los animales por ende la relación jerárquica debiese ser de los animales hacia al granjero.
+
 ....
 
 * *lfcv00007*
 
-
 ....
+
 En el diagrama de objetos sobraría la herencia a Humano (ya que es abstracto)
-....
-
-* *anggilb*
-
 
 ....
+
+
+* **anggilb**
+
+....
+
 Humano no es una clase abstracta.
 La relación Humano y Granjero no debería ser de herencia, sino que granjero fuera la profesión del humano
-....
-
-
-* *asanera*
-
 
 ....
+
+
+* **asanera**
+
+
+....
+
 Se debe usar el inglés
 El nombre de los objetos debe comenzar en minúscula.
 Las clases abstractas no se pintan en un diagrama de estados (por la calle no ves un humano, ves a Pepe o a Juani)
 
 ....
 
-* *borxdev*
+
+* **borxdev**
 
 
 ....
+
 - Debería estar escrito en inglés.
 - Animal debería ser también una clase abstracta.
 - El objeto TioEugenio:Humano sobraría, puesto que las clases abstractas no permiten crear instancias.
 - Los objetos no tienen relación de herencia. TioEugenio:Granjero no podría heredar de TioEugenio:Humano.
 - Los objetos se escriben con la inicial en minúscula?
-....
-
-* *mabernabe*
 
 ....
+
+* **mabernabe**
+
+....
+
 Humano en el diagrama de clases es una clase abstracta, es incorrecto que en el diagrama de objetos aparezca un objeto de la clase Humano. Ni pueden aparecer nunca relaciones de herencia entre objetos.  Y podrían aparecer dos objetos iguales (mismo estado) pero no dos objetos que son el mismo (TioEugenio, con la misma identidad). 
-....
-
-
-* *diego-novoa*
 
 ....
+
+
+* **diego-novoa**
+
+....
+
 El diagrama de estados, es una jerarquía de Composición: unión de objetos  y debería ser una Jerarquía de Clasificación
-....
-
-
-* *anónimo*
 
 ....
+
+
+* **anónimo**
+
+....
+
 La clase Humano es abstracta, no puede tener objetos.
 Los objetos no tienen relación de herencia.
-....
-
-* *lab-lovalace*
 
 ....
+
+* **lab-lovalace**
+
+....
+
 La clase animal es una clase abstracta. Si la clase animal es una clase abstracta Porky y Donald no se pueden instanciar de esa clase. Es necesario crear otra clase que se puede llamar "Animalesdomésticos" que herede de animales.
 La relación de asociación entre granjero y animal no va. Un granjero no cuida de todos los posibles animales existentes.
 la instanciación del Tío Eugenio de la clase Humano no es posible, porque la clase humano es una clase abstracta. Además no es posible instanciar un objeto dos veces.
+
 ....
 
 
