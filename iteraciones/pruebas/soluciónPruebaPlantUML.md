@@ -9,12 +9,7 @@
 
 * **lfcv00007**
 
-@startuml
-Picture *--> "n" Character : composed by >
-Observer --> Picture  : observe >
-Character *--> Position
-Character --> Observer : look at >
-@enduml
+[1](./diagramas/lfcv00007.plantuml)
 
 
 

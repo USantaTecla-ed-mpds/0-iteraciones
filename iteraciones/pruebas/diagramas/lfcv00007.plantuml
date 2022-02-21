@@ -1,0 +1,9 @@
+@startuml 1
+
+Picture *--> "n" Character : composed by >
+Observer --> Picture  : observe >
+Character *--> Position
+Character --> Observer : look at >
+
+@enduml
+
