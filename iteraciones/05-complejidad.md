@@ -1,8 +1,8 @@
 # 5-complejidad
 
-- [Preguntas](https://escuela.it/master-programacion-diseno-software)
+- [Preguntas](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/complejidad)
 - viernes 18/02/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/complejidad)
 - lunes 21/02/2022
 - [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/1-fundamentos/3-complejidad)
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
