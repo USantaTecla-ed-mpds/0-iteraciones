@@ -9,7 +9,7 @@
 
 * **lfcv00007**
 
-[1](../pruebas/lfcv00007/1.svg)
+[diagrama](../pruebas/lfcv00007/1.svg)
 
 
 
@@ -20,56 +20,8 @@
 
 * **asanera**
 
-[plantuml,asanera,svg]
-....
-title Cuadro de las Meninas de Velazques
+[diagrama](../pruebas/asanera/2.svg)
 
-object planeA
-object planeB
-object planeC
-
-object me
-object observer
-object king
-object queen
-object infantaMargarita
-object isabelDeVelasco
-object mariaAgustina
-
-object mariBarbola
-object nicolasitoPertusato
-object marcelaDeUlloa
-object diegoRuizAzcona
-object joseNietoVelazquez
-object diegoVelazquez
-object dog
-
-
-observer -->me
-observer o--> king
-observer o--> queen
-planeA o--> infantaMargarita
-planeA *-- mariaAgustina
-planeA *-- isabelDeVelasco
-planeA *-- mariBarbola
-planeA *-- nicolasitoPertusato
-planeA *-- dog
-
-planeB *-- diegoVelazquez
-planeB *-- marcelaDeUlloa
-planeB *-- diegoRuizAzcona
-
-
-planeC o--> king
-planeC o--> queen
-planeC o-->infantaMargarita
-planeC *-- joseNietoVelazquez
-
-object meninas
-meninas *-- planeA
-meninas *-- planeB
-meninas *-- planeC
-....
 
 * **borxdev**
 
@@ -88,51 +40,7 @@ meninas *-- planeC
 
 * **anónimo**
 
-[plantuml, segundoAnonimo, svg]
-....
-object meninas
-object ":Observer" as Observer
-object ":Foreground" as Foreground
-object ":Background" as Background
-object ":ThirdPlane" as ThirdPlane
-object margarita
-object ":Menina" as Menina1
-object ":Menina" as Menina2
-object ":Canvas" as Canvas
-object velazquez
-object ":Servant" as Servant1
-object ":Servant" as Servant2
-object mirror
-object felipeIV
-object marianaDeAustria
-object ":Personage" as Personage
-
-meninas *--> Foreground
-meninas *--> Background
-meninas *--> ThirdPlane
-
-Foreground *--> margarita
-Foreground *--> Menina1
-Foreground *--> Menina2
-Foreground *--> Canvas
-
-Background *--> velazquez
-Background *--> Servant1
-Background *--> Servant2
-
-ThirdPlane *--> mirror
-ThirdPlane *--> Personage
-
-mirror *--> felipeIV
-mirror *--> marianaDeAustria
-mirror --> Observer
-
-Observer ..> meninas
-velazquez --> Canvas
-Canvas o--> meninas
-Canvas o--> mirror
-
-....
+[diagrama](../pruebas/anonimo/3.svg)
 
 * *lab-lovalace*
 
