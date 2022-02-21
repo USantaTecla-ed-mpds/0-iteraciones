@@ -9,7 +9,7 @@
 
 * **lfcv00007**
 
-[1](./out/iteraciones/pruebas/diagramas/lfcv00007/1.svg)
+[1](../pruebas/lfcv00007/1.svg)
 
 
 
