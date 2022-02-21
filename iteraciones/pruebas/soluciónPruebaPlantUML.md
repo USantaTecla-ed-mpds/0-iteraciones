@@ -9,15 +9,13 @@
 
 * **lfcv00007**
 
-[plantuml,lfcv00007,svg ]
-....
 @startuml
 Picture *--> "n" Character : composed by >
 Observer --> Picture  : observe >
 Character *--> Position
 Character --> Observer : look at >
 @enduml
-....
+
 
 
 * **anggilb**
