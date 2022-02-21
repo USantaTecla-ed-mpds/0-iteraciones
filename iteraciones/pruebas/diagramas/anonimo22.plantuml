@@ -1,0 +1,35 @@
+@startuml 5
+actor Student #red
+
+Student -> Class: Subscribe
+
+Class -> Master:
+
+Master -> Unit: Init
+activate Unit
+
+Unit -> Session: Start
+activate Session
+
+Session -> Unit: End
+deactivate Session
+
+Unit -> Proyect: Init
+activate Proyect
+
+Proyect -> Unit: end
+deactivate Proyect
+
+Unit -> Exam: Init
+activate Exam
+
+Exam -> Unit: End
+deactivate Exam
+
+Unit -> Master: End
+deactivate Unit
+
+Master -> Student: End Unit
+deactivate Unit
+
+@enduml

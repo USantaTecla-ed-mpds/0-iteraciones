@@ -1,0 +1,12 @@
+@startuml 4
+"class diagram"
+    Class *-- Unit
+    Class *-- Master
+    Class *-- Cordinator
+    Class <- Student : take <
+
+    Unit *-- Session
+    Unit *-- Proyect
+    Unit *-- Exam
+
+@enduml

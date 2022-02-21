@@ -66,14 +66,14 @@ s = a.!b + !a.b
 
 
 
-* *asanera*
+* **asanera**
 
 Q = (A ⊕ B) = A.B + A.B
 
 
 * **borxdev**
 
-~A && B || A && ~B
+A && B || A && B
 
 
 * **mabernabe**
@@ -116,7 +116,7 @@ a XOR b = (a AND NOT b) OR (NOT a AND b)
 
 ....
 
-* *lfcv00007*
+* **lfcv00007**
 
 ....
 
@@ -203,93 +203,17 @@ la instanciación del Tío Eugenio de la clase Humano no es posible, porque la c
 
 * **anónimo**
 
-[cols="50,50"grid=none, frame=none]
-|===
+[diagrama1](../pruebas/anonimo2/4.svg)
 
-a|
-[plantuml, anonimo,svg]
-....
-"class diagram"
-    Class *-- Unit
-    Class *-- Master
-    Class *-- Cordinator
-    Class <- Student : take <
-
-    Unit *-- Session
-    Unit *-- Proyect
-    Unit *-- Exam
-....
-
-a|
-[plantuml, anonimo1,svg]
-....
-actor Student #red
-
-Student -> Class: Subscribe
-
-Class -> Master:
-
-Master -> Unit: Init
-activate Unit
-
-Unit -> Session: Start
-activate Session
-
-Session -> Unit: End
-deactivate Session
-
-Unit -> Proyect: Init
-activate Proyect
-
-Proyect -> Unit: end
-deactivate Proyect
-
-Unit -> Exam: Init
-activate Exam
-
-Exam -> Unit: End
-deactivate Exam
-
-Unit -> Master: End
-deactivate Unit
-
-Master -> Student: End Unit
-deactivate Unit
-....
-|===
+[diagrama1](../pruebas/anonimo22/5.svg)
 
 * **lfcv00007**
 
-[plantuml, lfcv00007, svg]
-....
-
-MasterProgramacionYDiseñoSoftware *--> "n" Alumno : matricula >
-MasterProgramacionYDiseñoSoftware *--> "54" Unidad : tiene >
-MasterProgramacionYDiseñoSoftware *--> Profesor
-
-Unidad *--> Teoria        
-Unidad *-down-> Practica
-Unidad *-down-> Examen
-
-Alumno <|-- Espectador
-Alumno <|-- Critico
-Alumno <|-- Artista
-
-Alumno ..-> Unidad : asiste >
-
-
-Practica <-- Critico : critica <
-Practica <-- Artista : realiza <
-
-Examen <-- Critico 
-Examen <-- Artista 
-
-Profesor --> Unidad : imparte >
-....
+[diagrama](../pruebas/lfcv00007-2/6.svg)
 
 * **anggilb**
 
-link:https://www.plantuml.com/plantuml/uml/TPBDIWCn4CVlynHx5l82ug6Ww4aej2TlizcXcpgRI3uM5dnuZPaqST5Bq_dz__F1p1v2H1_JmW2QCOJX5KCa3-KPxeSfUOp6sKP-CfumKaEBcv1Dt1h15GtZQ7vJHdj9UAMEq4gttcT2FPE7ycRPua9GtNTAtInrMZSbfjuWHFJ7_0k5PLc0g4UFEXfDrU2KQgmEqR7lWJoj9X00ZY5cEfoTuzfVgH9A-HEZVeTCXeTFfIGMySsvfMab5Ed5n3cDJHJGjgHdwzXTDcX_wwva4gTKxvFCPsEHZzvTIKVe0yaUzd0YDYlvhR-sKl_NoM8x7gt8gNmyTICnJMGZoFl7q7l7lbkz76wdD0RjpKUktzlt4Xp8JcdXBm00[enlace-1]
+[enlace-1](https://www.plantuml.com/plantuml/uml/TPBDIWCn4CVlynHx5l82ug6Ww4aej2TlizcXcpgRI3uM5dnuZPaqST5Bq_dz__F1p1v2H1_JmW2QCOJX5KCa3-KPxeSfUOp6sKP-CfumKaEBcv1Dt1h15GtZQ7vJHdj9UAMEq4gttcT2FPE7ycRPua9GtNTAtInrMZSbfjuWHFJ7_0k5PLc0g4UFEXfDrU2KQgmEqR7lWJoj9X00ZY5cEfoTuzfVgH9A-HEZVeTCXeTFfIGMySsvfMab5Ed5n3cDJHJGjgHdwzXTDcX_wwva4gTKxvFCPsEHZzvTIKVe0yaUzd0YDYlvhR-sKl_NoM8x7gt8gNmyTICnJMGZoFl7q7l7lbkz76wdD0RjpKUktzlt4Xp8JcdXBm00)
 
 
 
@@ -312,10 +236,10 @@ Mis disculpas. No tuve tiempo de más.
 |===
 
 a|
-link:https://www.planttext.com/api/plantuml/svg/ZL9DImCn4BtFhmWv5hAWA5waj5JeIIZRgkSnEzqDpKuaoL94_Uyc-wKdRGwJUPDvl9T9LY6YZrrh0NRUrHxRrd2zvkg1Wgdv4KCaBnQgScTMItbx8yKJc_XNirDANXK5Ix6FNKNyNxCu4Eg6_4K6xgJOEhGNzGucjYOstMj9RowOwFpxHTHitg8-RHfa9XiWYwh-8D6FnqHoZ3Rdnj9qsazclCq4SqZv2z6fpnS972Z46OYTHnsDfhaYh-MUGbQ0SS_LahJpLJ8DurYBObcw99x3f9Rp-q-brZwQy0EV3PtJW2UuyIO90WnxuiuM1jxl2cYB8VIFBZv02CQMu0lIMX5N_SVv1W00[clases]
+[clases](https://www.planttext.com/api/plantuml/svg/ZL9DImCn4BtFhmWv5hAWA5waj5JeIIZRgkSnEzqDpKuaoL94_Uyc-wKdRGwJUPDvl9T9LY6YZrrh0NRUrHxRrd2zvkg1Wgdv4KCaBnQgScTMItbx8yKJc_XNirDANXK5Ix6FNKNyNxCu4Eg6_4K6xgJOEhGNzGucjYOstMj9RowOwFpxHTHitg8-RHfa9XiWYwh-8D6FnqHoZ3Rdnj9qsazclCq4SqZv2z6fpnS972Z46OYTHnsDfhaYh-MUGbQ0SS_LahJpLJ8DurYBObcw99x3f9Rp-q-brZwQy0EV3PtJW2UuyIO90WnxuiuM1jxl2cYB8VIFBZv02CQMu0lIMX5N_SVv1W00)
 
 a|
-link:https://www.planttext.com/?text=TLDTIyCm57tFhxZqSR1Wf-ABZBaE5KGOi-1pjaGepNAXI_N57szkKjicP2yfd7FFkP_TNApeR7_MZBrfDB9f5IoM4d_CSWr5MS2dk5XrXTkfKvkZ7WhODpghkYlW6NiZXMtGP09UK6X6udacpfrZ9JgPSxnV3HmzSQOFsxW24zovbRS578HfcG-Ok0erTio_yFWRK3WecK9RBPmlbGh_qgUJRoXyuYczuxTYz03NwiloTIZN3nPmZBpXV35qGdETCUN4JBEBUUh81_WyOw4-Hur-Jrd6hobc2AfnjgIOdeYiUl2zAgTIQWn7bSlhBSDQHkPLkHDDmLqZpkuMKdZlZYF5AjqVcJSPrqLB7HmYZEGZ4DPCwWHYRAECf9_c3m00[estado]
+[estado](https://www.planttext.com/?text=TLDTIyCm57tFhxZqSR1Wf-ABZBaE5KGOi-1pjaGepNAXI_N57szkKjicP2yfd7FFkP_TNApeR7_MZBrfDB9f5IoM4d_CSWr5MS2dk5XrXTkfKvkZ7WhODpghkYlW6NiZXMtGP09UK6X6udacpfrZ9JgPSxnV3HmzSQOFsxW24zovbRS578HfcG-Ok0erTio_yFWRK3WecK9RBPmlbGh_qgUJRoXyuYczuxTYz03NwiloTIZN3nPmZBpXV35qGdETCUN4JBEBUUh81_WyOw4-Hur-Jrd6hobc2AfnjgIOdeYiUl2zAgTIQWn7bSlhBSDQHkPLkHDDmLqZpkuMKdZlZYF5AjqVcJSPrqLB7HmYZEGZ4DPCwWHYRAECf9_c3m00)
 
 |===
 
@@ -325,63 +249,8 @@ link:https://www.planttext.com/?text=TLDTIyCm57tFhxZqSR1Wf-ABZBaE5KGOi-1pjaGepNA
 
 
 * **anónimo**
-[plantuml, segundoAnonimo, svg]
-....
-object masterPDS
-object "luis:Teacher" as luis
-object ":Temary" as Temary
-object ":Practice" as Practice
-object ":Viewer" as Viewer1
-object ":Viewer" as Viewer2
-object ":Viewer" as Viewer3
-object ":Viewer" as Viewer4
-object ":Artist" as Artist1
-object ":Artist" as Artist2
-object ":Artist" as Artist3
-object ":Artist" as Artist4
-object ":Reviewer" as Reviewer1
-object ":Reviewer" as Reviewer2
-object ":Solution" as Solution1
-object ":Solution" as Solution2
 
-masterPDS *--> luis
-masterPDS *--> Viewer1
-masterPDS *--> Viewer2
-masterPDS *--> Viewer3
-masterPDS *--> Viewer4
-masterPDS *--> Artist1
-masterPDS *--> Artist2
-masterPDS *--> Artist3
-masterPDS *--> Artist4
-masterPDS *--> Reviewer1
-masterPDS *--> Reviewer2
-masterPDS *--> Temary
-
-Temary *--> Practice
-
-luis --> Temary
-Viewer1 ..> Temary
-Viewer2 ..> Temary
-Viewer3 ..> Temary
-Viewer4 ..> Temary
-
-Reviewer1 ..> Temary
-Reviewer1 --> Solution1
-Reviewer2 ..> Temary
-Reviewer2 --> Solution2
-
-Artist1 ..> Temary
-Artist2 ..> Temary
-Artist3 ..> Temary
-Artist4 ..> Temary
-
-Practice *--> Solution1
-Practice *--> Solution2
-Solution1 *--> Artist1
-Solution1 *--> Artist2
-Solution2 *--> Artist3
-Solution2 *--> Artist4
-....
+[diagrama](../pruebas/anonimo3/7.svg)
 
 * **lab-lovalace**
 
