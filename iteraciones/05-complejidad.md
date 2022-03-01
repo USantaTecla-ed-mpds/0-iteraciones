@@ -16,11 +16,11 @@
   |game-connect4|[proyectos](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-plantuml/game-connect4/semanaActual) |[proyectos](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/tech-plantuml/game-connect4)        |[proyectos](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-plantuml/game-connect4) |[proyectos](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-plantuml/game-connect4)  |[proyectos](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-plantuml/game-connect4/semanaActual) | [crítica](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/tech-plantuml/game-connect4/criticaSemanaActual)|
   |game-klondike|[proyectos](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-plantuml/game-klondike/semanaActual) |[proyectos](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/tech-plantuml/game-klondike)   |[proyectos](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-plantuml/game-klondike/semanaActual)  |[proyectos](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-plantuml/game-klondike)   |[proyectos](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-plantuml/game-klondike/semanaActual) | [crítica](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/tech-plantuml/game-klondike/criticaSemanaActual)|
 - viernes 25/02/2022
-  - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
+  - [Corrección de Proyectos](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/complejidad)
 - sabado 26/02/2022 - domingo 27/02/2022
   - [Prueba](https://forms.gle/vG7TZwZVmfjJRSPP9)
 - lunes 28/02/2022
-  - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
-  - [Solución de Prueba]()
+  - [Corrección de Prueba](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/complejidad)
+  - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1m1nvaSuak4Rw1HE45ul86p3yrTbdtTqX9D4ojN9xfYs/edit?usp=sharing)
 - [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TCP63Y1G)
 

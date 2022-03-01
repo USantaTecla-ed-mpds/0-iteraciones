@@ -1,19 +1,19 @@
 # 6-xml-json-yaml
 
-- [Preguntas](https://escuela.it/master-programacion-diseno-software)
+- [Preguntas](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/xml-json-yaml)
 - viernes 25/02/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/xml-json-yaml)
 - lunes 28/02/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
-  - [Registro](https://forms.gle/r5LaoFghY4TDzXGTA)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/xml-json-yaml)
+  - [Registro]()
 - martes 01/03/2022 - jueves 03/03/2022
   - Proyectos
   
-  |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
-  |-------|---------|------------|----------|-----------|--------------|
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
+  |Domains|lab-chomsky|lab-dijkstra|lab-turing|lab-lovalace|lab-boole|cafeteria|
+  |-------|-----------|------------|---------|------------|----------|---------|
+  |game-klondike|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-json/game-klondike/0.0.dataLanguages)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-json/game-klondike/0.0.dataLanguages)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-json/game-klondike/0.0.dataLanguages)|              |            |[Proyecto](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/tech-json/game-klondike/0.0.dataLanguages)|
+  |game-klondike|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-xml/game-klondike/0.0.dataLanguages)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-xml/game-klondike/0.0.dataLanguages)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-xml/game-klondike/0.0.dataLanguages)|             |            |[Proyecto](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/tech-xml/game-klondike/0.0.dataLanguages)|
+  |game-klondike|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-yaml/game-klondike/0.0.dataLanguages)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-yaml/game-klondike/0.0.dataLanguages)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-yaml/game-klondike/0.0.dataLanguages)|             |            |[Proyecto](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/tech-yaml/game-klondike/0.0.dataLanguages)|
 - viernes 04/03/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 05/03/2022 - domingo 06/03/2022
