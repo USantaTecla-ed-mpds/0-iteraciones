@@ -2,8 +2,11 @@
 
 ## Pregunta Nº1
 
+### Enunciado Nº1
 - Modela con UML el cuadro de "Las Meninas de Velázquez" de tal forma que se observe qué diferencias existen con otros cuadros en los que el observador no se siente dentro de la escena (Pista: relaciones entre observador, personajes y posiciones)
 
+
+### Propuestas Nº1
 * **anónimo**
 
 
@@ -47,10 +50,45 @@
 [enlace](https://github.com/USantaTecla-ed-mpds/lab-lovalace/blob/master/20220217_Meninas.pdf) .. El archivo es el que se llama 20220217_Meninas.pdf
 
 
+### Solución Nº1
+
+~~~~
+object viewer
+object picture
+object mirror
+object velazquez
+object menina
+object king
+object queen
+object mirrorPosition
+object velazquezPosition
+object meninaPosition
+object sharedPosition #red
+
+viewer ..> picture
+picture *--> mirror
+mirror --> mirrorPosition
+picture *--> velazquez
+velazquez --> velazquezPosition
+picture *--> menina
+menina --> meninaPosition
+mirror --> king
+mirror --> queen
+queen --> sharedPosition
+king --> sharedPosition
+viewer ..> sharedPosition
+~~~~
+
+[svg](https://www.planttext.com/api/plantuml/svg/RL5R4eCW3Fpd59dfNsVq28v7w1MePjgq2YqFE-FfLH04wW_9xeOb2QqsN1ax3ep9-mix0nFX3rL07-gCLHZWI4h9A4uuyFbhSOuo2X8ye3U9HyZNAXIvoqrgCYJ5drifUDUIrK-ki0yiN5R0c6yUwhg9dUyHhbNLXFvzW8E9vbdrCL_C8EFFh-rRy04E9bOdpxiT9TZloPqEvrEohVoCJ-Ok5DQYwBV_NG00)
+
 
 ## Pregunta Nº2
 
+### Enunciado Nº2
+
 - Dada la tabla de verdad (combinaciones de cierto y falso) de la "puerta" XOR (especificación en tabla verde de https://es.wikipedia.org/wiki/Puerta_XOR), escribe la expresión lógica de la salida (tercera columna) correspondiente a la entrada (primeras 2 columnas)
+
+### Propuestas Nº2
 
 * **anónimo**
 ~~~~
@@ -97,10 +135,21 @@ A != B = 1
 a XOR b = (a AND NOT b) OR (NOT a AND b)
 ~~~~
 
+### Solución Nº2
+
+~~~~
+!a && b || a && !b
+~~~~
+
+
 ## Pregunta Nº3
 
+### Enunciado Nº3
 
 - Comenta la posible incorrección del siguiente diagrama: 
+
+
+### Propuestas Nº3
 
 [diagrama](https://www.planttext.com/api/plantuml/svg/RP7D2eCm48Jl-nIBzxo0b6AXHOyzz5vM8n8RioM9s48Vlchyg_IKPUPRTeOapfFrRQC1I6lkxerwALC159gSmvDH3McWt7bBXSUWPcr3XYSajMJgqZ90WF7m4P8x8sOiFAkyBimJ2d6SJc6CHQia0N1Ub_t5wChsyOw36o4vV0x2Of_PaDxQSX3aujyKNzggD8hZ46I4_A9c_yWvs8vD0JQBGoE1F_Pc7ZkDKPTAUpSaNHj3KXhPVyKN)
 
@@ -195,9 +244,23 @@ la instanciación del Tío Eugenio de la clase Humano no es posible, porque la c
 
 ~~~~
 
+
+### Solución Nº3
+
+- Nombres en castellano, debería ser inglés
+- Letra inicial de identificador de objetos en mayúsucula, deberían ser en minúscula
+- Objeto "TioEugenio:Humano" de una clase Abstracta, siendo no instanciable
+- Relación de herencia entre objetos, cuando sería solo entre clases
+
 ## Pregunta Nº4
 
+
+### Enunciado Nº4
+
 - Realiza un modelo (...esencial ... aproximadamente, no más de 20 tipos de entidad y algún diagrama de actividad o estados para algún proceso) de este mismo master de Programación y Diseño del Software
+
+
+### Propuestas Nº4
 
 * **anónimo**
 
@@ -252,9 +315,88 @@ Mis disculpas. No tuve tiempo de más.
 ~~~~
 
 
+### Solución Nº4
+
+~~~~
+class Master
+class Teacher
+class Pupil
+class Rol
+class Viewer
+class Active
+class Critic
+class Artist
+class Unit
+class Exposition{
+DAY = Monday | Friday
+}
+
+class Project {
+DAY = Friday
+statement
+proposal
+critic
+eval
+}
+
+class Test {
+DAY = Monday
+statement
+proposal
+eval
+}
+
+Master *-down-> Teacher
+Master *-down-> "*" Pupil
+Pupil *--> Rol
+Rol <|-down- Viewer
+Rol <|-down- Active
+Active <|-down- Artist
+Active <|-down- Critic 
+Master *-down-> "52" Unit
+Unit *-down-> "2" Exposition 
+Unit *-down-> "5" Test
+Unit *-down-> Project
+Rol --> Exposition
+Teacher --> Unit
+Project --> "5*(2+1)" Active
+Test --> "5*(2+1)" Active
+~~~~
+
+[svg](https://www.planttext.com/api/plantuml/svg/RP9DJyCm38Rl-HLMJb3K0vDs0xI9Zzka2GqaZb5gYQ0kgH9l0p7-Esu-sb5MgQdzsexZ9rq4KfvssrO8tQeGOAK2eS_E1fL-7xprhZDjjfzTiLuD7eQKfIQpn-pSUqD6buWd4oWxBzOKy_6pSu7pdFqM3yitk8MLiutwWYCyUSE6-2b7MtltWPgW9EOuJq2uHKkYyuutKtoor1dtR0_b6mnZRMfohhOK9H1GrOqxsFfkO37LPIKpcRXoWCKU3xzmSqnfXT8VBSDAdnCvaPhAYIRyxp-VoGIqNqvqbaUuC8tEPGGoaJFYUCv-Zd43aUUFScnNhgEEsrKNiwlhIrc6Yh3FHkApGDlqFzql)
+
+~~~~
+start
+
+  :Exposición 0;
+  :Exposición 1.a;
+  :Exposición 1.b;
+  :n <- 2;
+repeat
+	:Evaluación Proyecto n;
+  :Exposición n+1.a;
+	:Evaluación Prueba n;
+  :Exposición n+1.b;
+  :n <- n + 1;
+repeat while () is (n < 52)
+:Evaluación Proyecto 52;
+:Evaluación Prueba 52;
+
+stop
+~~~~
+
+[svg](https://www.planttext.com/api/plantuml/svg/SoWkIImgAStDuU82ixYu51IiN2iAyeipapCFRyvJCB165p7KIyGYbWGMorEmqLKmikOgIYr8JIpXuhHoBKlCAKs4A0eeogzCJIx9LyZ3q9-d3JOLNNrfQb8Y3jL8zkKfQ2iOmknKAC_8p4bLqD1Ko2nMq03AAvWQQN9XTuSfqANOR0I90uCZlu2Boo4rBmKKEW00)
+
 ## Pregunta Nº5
 
+
+### Enunciado Nº5
+
+
 - Relaciona, con aproximadamente 50 palabras, las unidades de Patrones y Conocimiento vistos anteriormente
+
+
+### Propuestas Nº5
 
 * **anónimo**
 
@@ -340,6 +482,18 @@ En Patrones hemos visto que un patrón es un modelo abstracto y su clasificació
 Un patrón es una abstracción de una forma concreta de solución que se repite en contextos específicos, pero el patrón en un momento llega a ser insuficiente para solucionar todos los posibles casos, ejemplo cuando se analizo el caso del ornitorrinco que es un mamífero que se desenmarca de la clasificación de esta especie. Cuando lo anterior ocurre, es necesario construir más patrones  que se pueden aglutinar formando colecciones que constituyen un vocabulario para comprender y comunicar ideas, con base en esas ideas se construye conocimiento. 
 
 ~~~~
+
+### Solución Nº5
+
+~~~~
+Mediante un proceso de mejora continua, un modelo del dominio 
+relaciona mediante jerarquías de composición, asociación, uso y herencia de clases
+(patrones, abstraccciones, tipos, ... de objetos homogeneos en propiedades, no necesariamente en sus valores)
+que conforman las estructuras recurrentes, iterativas y recursivas necesarias 
+para adquirir el nivel de conocimiento adecuado de cualquier sector
+ 
+~~~~
+
 
 
 
