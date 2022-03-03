@@ -3,7 +3,11 @@
 ## Pregunta Nº1
 
 ### Enunciado Nº1
-- Modela con UML el cuadro de "Las Meninas de Velázquez" de tal forma que se observe qué diferencias existen con otros cuadros en los que el observador no se siente dentro de la escena (Pista: relaciones entre observador, personajes y posiciones)
+
+- Modela con UML el cuadro de "Las Meninas de Velázquez" 
+de tal forma que se observe qué diferencias existen con 
+otros cuadros en los que el observador no se siente dentro 
+de la escena (Pista: relaciones entre observador, personajes y posiciones)
 
 
 ### Propuestas Nº1
@@ -86,7 +90,10 @@ viewer ..> sharedPosition
 
 ### Enunciado Nº2
 
-- Dada la tabla de verdad (combinaciones de cierto y falso) de la "puerta" XOR (especificación en tabla verde de https://es.wikipedia.org/wiki/Puerta_XOR), escribe la expresión lógica de la salida (tercera columna) correspondiente a la entrada (primeras 2 columnas)
+- Dada la tabla de verdad (combinaciones de cierto y falso) de la 
+"puerta" XOR (especificación en tabla verde de https://es.wikipedia.org/wiki/Puerta_XOR),
+ escribe la expresión lógica de la salida (tercera columna) 
+ correspondiente a la entrada (primeras 2 columnas)
 
 ### Propuestas Nº2
 
@@ -156,13 +163,14 @@ a XOR b = (a AND NOT b) OR (NOT a AND b)
 
 * **anónimo**
 
-
 ~~~~
+Para el diagrama de clases se debería agregar abstracciones 
+para los animales de una granja, si bien la relación no es del 
+todo errónea se entiende que el granjero no puede cuidar a cualquier animal. 
 
- Para el diagrama de clases se debería agregar abstracciones para los animales de una granja, si bien la relación no es del todo errónea se entiende que el granjero no puede cuidar a cualquier animal. 
-
- Para el diagrama de objetos los animales se deben asociar al granjero, se entiende que el granjero cuida a los animales por ende la relación jerárquica debiese ser de los animales hacia al granjero.
-
+Para el diagrama de objetos los animales se deben asociar al 
+granjero, se entiende que el granjero cuida a los animales por 
+ende la relación jerárquica debiese ser de los animales hacia al granjero.
 ~~~~
 
 * **lfcv00007**
@@ -177,42 +185,42 @@ En el diagrama de objetos sobraría la herencia a Humano (ya que es abstracto)
 * **anggilb**
 
 ~~~~
-
 Humano no es una clase abstracta.
-La relación Humano y Granjero no debería ser de herencia, sino que granjero fuera la profesión del humano
-
+La relación Humano y Granjero no debería ser de herencia, 
+sino que granjero fuera la profesión del humano
 ~~~~
 
 
 * **asanera**
 
 ~~~~
-
 Se debe usar el inglés
 El nombre de los objetos debe comenzar en minúscula.
-Las clases abstractas no se pintan en un diagrama de estados (por la calle no ves un humano, ves a Pepe o a Juani)
-
+Las clases abstractas no se pintan en un diagrama de 
+estados (por la calle no ves un humano, ves a Pepe o a Juani)
 ~~~~
 
 
 * **borxdev**
 
 ~~~~
-
 - Debería estar escrito en inglés.
 - Animal debería ser también una clase abstracta.
-- El objeto TioEugenio:Humano sobraría, puesto que las clases abstractas no permiten crear instancias.
-- Los objetos no tienen relación de herencia. TioEugenio:Granjero no podría heredar de TioEugenio:Humano.
+- El objeto TioEugenio:Humano sobraría, puesto que las clases 
+abstractas no permiten crear instancias.
+- Los objetos no tienen relación de herencia. 
+TioEugenio:Granjero no podría heredar de TioEugenio:Humano.
 - Los objetos se escriben con la inicial en minúscula?
-
 ~~~~
 
 * **mabernabe**
 
 ~~~~
-
-Humano en el diagrama de clases es una clase abstracta, es incorrecto que en el diagrama de objetos aparezca un objeto de la clase Humano. Ni pueden aparecer nunca relaciones de herencia entre objetos.  Y podrían aparecer dos objetos iguales (mismo estado) pero no dos objetos que son el mismo (TioEugenio, con la misma identidad). 
-
+Humano en el diagrama de clases es una clase abstracta, es incorrecto 
+que en el diagrama de objetos aparezca un objeto de la clase Humano. 
+Ni pueden aparecer nunca relaciones de herencia entre objetos.  
+Y podrían aparecer dos objetos iguales (mismo estado) pero no dos 
+objetos que son el mismo (TioEugenio, con la misma identidad). 
 ~~~~
 
 
@@ -401,9 +409,10 @@ stop
 * **anónimo**
 
 ~~~~
-
-A partir del conocimiento se descubren patrones patrones, saber identificar los elementos conocer sus características determinar comportamientos aumenta nuestro conocimiento y a su vez nos facilita la labor de encontrar patrones
-
+A partir del conocimiento se descubren patrones patrones, saber 
+identificar los elementos conocer sus características determinar 
+comportamientos aumenta nuestro conocimiento y a su vez nos 
+facilita la labor de encontrar patrones
 ~~~~
 
 * **lfcv00007**
@@ -416,42 +425,51 @@ A partir del conocimiento se descubren patrones patrones, saber identificar los 
 * **anggilb**
 
 ~~~~
-
-Pirámide de DICS: Datos < Información < Conocimiento < Sabiduría. En estos 4 niveles existen diferentes tipos de patrones que se repiten de forma recurrente en la vida real y cuyo aprendizaje puede facilitar el ascender al siguiente nivel de la pirámide anteriormente descrita, para cualquier área del conocimiento.
-
+Pirámide de DICS: Datos < Información < Conocimiento < Sabiduría. 
+En estos 4 niveles existen diferentes tipos de patrones que se 
+repiten de forma recurrente en la vida real y cuyo aprendizaje 
+puede facilitar el ascender al siguiente nivel de la pirámide 
+anteriormente descrita, para cualquier área del conocimiento.
 ~~~~
 
 
 * **asanera**
 
 ~~~~
-
-Por el conocimiento y a través de la piramide de DICK podemos crear patrones, ya que el conocimiento da la capacidad de crear jerarquías, clasificaciones y herencias de diferentes conjuntos y objetos dando la capacidad al ser humano de poder abstraerse y modelar una solución común para implementarlas en diferentes escenarios.
-
+Por el conocimiento y a través de la piramide de DICK podemos crear patrones, 
+ya que el conocimiento da la capacidad de crear jerarquías, clasificaciones 
+y herencias de diferentes conjuntos y objetos dando la capacidad al ser 
+humano de poder abstraerse y modelar una solución común para implementarlas 
+en diferentes escenarios.
 ~~~~
 
 * **borxdev**
 
 ~~~~
-
 - Todo se agrupa y se relaciona en conjuntos.
 - Un Conjunto es una colección... que se asocia por algún patrón.
-- Un Patrón es un modelo (una clase, un conjunto) que sirve de muestra para sacar otra cosa igual (un objeto, otro conjunto).
-- Una Clase es un conjunto cuyos elementos son las características comunes de otro conjunto de objetos similares.
-- Un Objeto es un ejemplar de una Clase, con estado definido... Es un conjunto de elementos que son otros objetos, que a su vez son objetos, y así continua siguiendo un patrón recursivo.
+- Un Patrón es un modelo (una clase, un conjunto) que sirve de 
+muestra para sacar otra cosa igual (un objeto, otro conjunto).
+- Una Clase es un conjunto cuyos elementos son las características 
+comunes de otro conjunto de objetos similares.
+- Un Objeto es un ejemplar de una Clase, con estado definido... 
+Es un conjunto de elementos que son otros objetos, que a su vez son objetos, 
+y así continua siguiendo un patrón recursivo.
 - Los procesos y algoritmos también son conjuntos. Las jerarquías se basan en conjuntos.
-
 ~~~~
 
 * **mabernabe**
 
 ~~~~
-
-Las señales físicas que percibimos por los sentidos (ya hablamos de ellas en la unidad de patrones) dejan de ser ruido cuando se convierte en patrón, con formato reconocible, un dato. 
- Con un lenguaje como UML (que empezamos a ver en patrones) podemos organizar los datos para darles significado y convertirlos en información.
- El conocimiento usa la información y es necesario para dar soluciones eficaces y eficientes (conceptos que vimos en patrones) en todos los sectores de producción.
-Con conjuntos podemos describir todo, incluyendo los patrones, clases, clases abstractas, objetos, jerarquías de clasificación y composición que ya vimos en la unidad de patrones
-
+Las señales físicas que percibimos por los sentidos (ya hablamos de ellas en 
+la unidad de patrones) dejan de ser ruido cuando se convierte en patrón, 
+con formato reconocible, un dato. 
+Con un lenguaje como UML (que empezamos a ver en patrones) podemos organizar 
+los datos para darles significado y convertirlos en información.
+El conocimiento usa la información y es necesario para dar soluciones 
+eficaces y eficientes (conceptos que vimos en patrones) en todos los sectores de producción.
+Con conjuntos podemos describir todo, incluyendo los patrones, clases, 
+clases abstractas, objetos, jerarquías de clasificación y composición que ya vimos en la unidad de patrones
 ~~~~
 
 * **diego-novoa**
@@ -459,11 +477,35 @@ Con conjuntos podemos describir todo, incluyendo los patrones, clases, clases ab
 
 Patrones
 
-Objetos son ejemplares de una Clase que tiene propiedades y comportamientos que se clasifican heredan, colaboran tienen un uso, asociación y composición 
-Tienen unos Valores Longitud: metro, Sustancia: mol, Masa: kilogramo, Tiempo: segundo, Temperatura: kelvin, Luminosidad: candela, Electricidad: amperio y Unidades de ubicación 
+Objetos son ejemplares de una Clase que tiene propiedades y comportamientos 
+que se clasifican heredan, colaboran tienen un uso, asociación y composición 
+Tienen unos Valores Longitud: metro, Sustancia: mol, Masa: kilogramo, 
+Tiempo: segundo, Temperatura: kelvin, Luminosidad: candela, 
+Electricidad: amperio y Unidades de ubicación 
 Procesos son actividades a realizar y Algoritmos son instrucciones a ciertas actividades 
-Igualdad, conjunto de objetos iguales o idénticos de un patrón de la vida real a extraer con un Modelo del Dominio, que Describe los conceptos más importantes del Objetos de negocio y Objetos del mundo real y conceptos con Tipos de Patrones, Iterativos que se repiten, los Patrones Recursivos que se repiten en sí mismos o recurrentes que se repiten al principio o al final esporádicamente.
-Patrones Sencillos ,Interfaz Gráfica de Usuario son lineal, triangular o circular se utilizan en Tipos de Datos, Estructuras de Datos, Sentencias de Control de Flujo de Ejecución, Recursividad en Procesos, Recursividad en Datos, Metodologías de Desarrollo en el Conocimiento la humanidad busaca la autorrealización, Pirámide de Maslow, pero Pirámide DIKW busca poner orden caos, a través de un Lenguaje Formal,  expresiones Regulares en Sectores Productivos con un Conjunto colección desordenada de elementos no repetidos, con Tipos de Conjuntos de extensión y compresión,           Objetos conjunto de elementos que son otros objetos que a su vez … recursivamente y Clases conjunto cuyos elementos son las características comunes de otro conjunto de objetos similares y Clases Abstractas conjunto intersección de características comunes          Jerarquías de Composición unión de los objetos partes del todo vs Clasficación intersección de las características de las clases similares, Jerarquías de Agregación Un objeto parte pertenece a varios objetos todo y Clasificación Múltiple Un clase descendiente comparte características con varias clases base, Relación de Asociación colaboración entre objetos, Álgebra de Boole , Estrategias de Clasificación , Historia de la Ciencia , Método Científico de Galileo, Método Cartesiano, Ciclo de Deming , Paradigmas de Khun, Dialéctica Hegeliana
+Igualdad, conjunto de objetos iguales o idénticos de un patrón de 
+la vida real a extraer con un Modelo del Dominio, que Describe los 
+conceptos más importantes del Objetos de negocio y Objetos del 
+mundo real y conceptos con Tipos de Patrones, Iterativos que se repiten, 
+los Patrones Recursivos que se repiten en sí mismos o recurrentes que 
+se repiten al principio o al final esporádicamente.
+Patrones Sencillos ,Interfaz Gráfica de Usuario son lineal, triangular o 
+circular se utilizan en Tipos de Datos, Estructuras de Datos, 
+Sentencias de Control de Flujo de Ejecución, Recursividad en Procesos, 
+Recursividad en Datos, Metodologías de Desarrollo en el Conocimiento la 
+humanidad busaca la autorrealización, Pirámide de Maslow, pero 
+Pirámide DIKW busca poner orden caos, a través de un Lenguaje Formal,  
+expresiones Regulares en Sectores Productivos con un Conjunto colección 
+desordenada de elementos no repetidos, con Tipos de Conjuntos de extensión y compresión, 
+Objetos conjunto de elementos que son otros objetos que a su vez … recursivamente y 
+Clases conjunto cuyos elementos son las características comunes de otro conjunto de 
+objetos similares y Clases Abstractas conjunto intersección de características comunes  
+Jerarquías de Composición unión de los objetos partes del todo vs Clasficación intersección 
+de las características de las clases similares, Jerarquías de Agregación Un objeto parte 
+pertenece a varios objetos todo y Clasificación Múltiple Un clase descendiente comparte 
+características con varias clases base, Relación de Asociación colaboración entre objetos, 
+Álgebra de Boole , Estrategias de Clasificación , Historia de la Ciencia , 
+Método Científico de Galileo, Método Cartesiano, Ciclo de Deming , Paradigmas de Khun, Dialéctica Hegeliana
 
 ~~~~
 
@@ -472,27 +514,35 @@ Patrones Sencillos ,Interfaz Gráfica de Usuario son lineal, triangular o circul
 
 ~~~~
 
-En Patrones hemos visto que un patrón es un modelo abstracto y su clasificación según su reusabilidad (recurrente, iterativo, recursivo) y en Conocimiento aprendemos a ordenar esos patrones y relacionarlos entre ellos según las jerarquías de clasificación y composición.
-
+En Patrones hemos visto que un patrón es un modelo abstracto y 
+su clasificación según su reusabilidad (recurrente, iterativo, recursivo) 
+y en Conocimiento aprendemos a ordenar esos patrones y relacionarlos 
+entre ellos según las jerarquías de clasificación y composición.
 ~~~~
 
 * **lab-lovalace**
 
 ~~~~
-Un patrón es una abstracción de una forma concreta de solución que se repite en contextos específicos, pero el patrón en un momento llega a ser insuficiente para solucionar todos los posibles casos, ejemplo cuando se analizo el caso del ornitorrinco que es un mamífero que se desenmarca de la clasificación de esta especie. Cuando lo anterior ocurre, es necesario construir más patrones  que se pueden aglutinar formando colecciones que constituyen un vocabulario para comprender y comunicar ideas, con base en esas ideas se construye conocimiento. 
-
+Un patrón es una abstracción de una forma concreta de solución 
+que se repite en contextos específicos, pero el patrón en un momento
+llega a ser insuficiente para solucionar todos los posibles casos, 
+ejemplo cuando se analizo el caso del ornitorrinco que es un mamífero 
+que se desenmarca de la clasificación de esta especie. Cuando lo anterior 
+ocurre, es necesario construir más patrones  que se pueden aglutinar 
+formando colecciones que constituyen un vocabulario para comprender y 
+comunicar ideas, con base en esas ideas se construye conocimiento. 
 ~~~~
 
 ### Solución Nº5
 
 ~~~~
 Mediante un proceso de mejora continua, un modelo del dominio 
-relaciona mediante jerarquías de composición, asociación, uso y herencia de clases
-(patrones, abstraccciones, tipos, ... de objetos homogeneos en propiedades, no necesariamente en sus valores)
+relaciona mediante jerarquías de composición, asociación, uso 
+y herencia de clases (patrones, abstraccciones, tipos, ... de 
+objetos homogeneos en propiedades, no necesariamente en sus valores)
 que conforman las estructuras recurrentes, iterativas y recursivas necesarias 
 para adquirir el nivel de conocimiento adecuado de cualquier sector
- 
-~~~~
+ ~~~~
 
 
 
