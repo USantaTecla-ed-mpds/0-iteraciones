@@ -18,7 +18,7 @@
 - viernes 04/03/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 05/03/2022 - domingo 06/03/2022
-  - [Prueba](https://forms.gle/76tZeQxYmmcTNF5v7)
+  - [Prueba](https://forms.gle/EqpC9FxDqzBRPRaF9)
 - lunes 07/03/2022
   - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1BJLRxhEZZJe-FJGWYefsP-A8Lr25RH4wJkgGOS3dHfk/edit?usp=sharing)
