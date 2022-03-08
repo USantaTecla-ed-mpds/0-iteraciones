@@ -19,11 +19,11 @@
   |game-connect4-yaml |           |           |            |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-yaml/game-connect4/0.0.dataLanguages)|                |         |
   |game-klondike-plantUml|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-plantuml/game-klondike/semanaActual/docs/images)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-plantuml/game-klondike/semanaActual)|   |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-plantuml/game-klondike/semanaActual)|            |[Critica](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/tech-plantuml/game-klondike/criticaUltimaSemana)  [Critica](https://github.com/USantaTecla-ed-mpds/cafeteria/blob/master/tech-plantuml/game-klondike/criticaSemanaActual/lab-Dijkstra.md)|
 - viernes 04/03/2022
-  - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
+  - [Corrección de Proyectos](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/xml-json-yaml)
 - sabado 05/03/2022 - domingo 06/03/2022
   - [Prueba](https://forms.gle/EqpC9FxDqzBRPRaF9)
 - lunes 07/03/2022
-  - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
+  - [Corrección de Prueba](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/xml-json-yaml)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1-dEM76Awo3JFeRJ3TntE0QDcl6iIC6Z6_JswQj_UEBo/edit?usp=sharing)
 - [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TCPHJUTU)
 
