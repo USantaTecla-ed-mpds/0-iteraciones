@@ -1,4 +1,4 @@
-# 8-dom
+# 8-disciplinasSoftware
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 11/03/2022

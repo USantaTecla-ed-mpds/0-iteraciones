@@ -9,8 +9,8 @@
 |[1-fundamentos-git](iteraciones/01-fundamentos-git.md) | [2-patrones-uml](iteraciones/02-patrones-uml.md) | 
 |[3-conocimiento](iteraciones/03-conocimiento.md) | [4-plantuml](iteraciones/04-plantuml.md) |
 |[5-complejidad](iteraciones/05-complejidad.md) | [6-xml-json-yaml](iteraciones/06-xml-json-yaml.md) | 
-|[7-software](iteraciones/07-software.md) | [8-dom](iteraciones/8-dom.md) |
-|[9-disciplinasSoftware-svg](iteraciones/09-disciplinasSoftware-svg.md) | [10-html](iteraciones/10-html.md) |  
+|[7-software](iteraciones/07-software.md) | [8-disciplinasSoftware](iteraciones/8-disciplinasSoftware.md) |
+|[9-dom-svg](iteraciones/09-dom-svg.md) | [10-html](iteraciones/10-html.md) |  
 |[11-css](iteraciones/11-css.md) |[12-disciplinaProgramacion-javascript](iteraciones/12-disciplinaProgramacion-javascript.md)|
 |[13-js-imperativa](iteraciones/13-js-imperativa.md) | [14-js-imperativa](iteraciones/14-js-imperativa.md) |  
 |[15-js-estructurada](iteraciones/15-js-estructurada.md) | [16-js-estructurada](iteraciones/16-js-estructurada.md) |
