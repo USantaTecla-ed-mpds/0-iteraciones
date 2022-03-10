@@ -1,0 +1,25 @@
+@startuml 6
+
+MasterProgramacionYDiseñoSoftware *--> "n" Alumno : matricula >
+MasterProgramacionYDiseñoSoftware *--> "54" Unidad : tiene >
+MasterProgramacionYDiseñoSoftware *--> Profesor
+
+Unidad *--> Teoria        
+Unidad *-down-> Practica
+Unidad *-down-> Examen
+
+Alumno <|-- Espectador
+Alumno <|-- Critico
+Alumno <|-- Artista
+
+Alumno ..-> Unidad : asiste >
+
+
+Practica <-- Critico : critica <
+Practica <-- Artista : realiza <
+
+Examen <-- Critico 
+Examen <-- Artista 
+
+Profesor --> Unidad : imparte >
+@enduml

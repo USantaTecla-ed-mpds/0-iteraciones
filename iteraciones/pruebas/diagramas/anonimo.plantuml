@@ -1,0 +1,44 @@
+@startuml 3
+object meninas
+object ":Observer" as Observer
+object ":Foreground" as Foreground
+object ":Background" as Background
+object ":ThirdPlane" as ThirdPlane
+object margarita
+object ":Menina" as Menina1
+object ":Menina" as Menina2
+object ":Canvas" as Canvas
+object velazquez
+object ":Servant" as Servant1
+object ":Servant" as Servant2
+object mirror
+object felipeIV
+object marianaDeAustria
+object ":Personage" as Personage
+
+meninas *--> Foreground
+meninas *--> Background
+meninas *--> ThirdPlane
+
+Foreground *--> margarita
+Foreground *--> Menina1
+Foreground *--> Menina2
+Foreground *--> Canvas
+
+Background *--> velazquez
+Background *--> Servant1
+Background *--> Servant2
+
+ThirdPlane *--> mirror
+ThirdPlane *--> Personage
+
+mirror *--> felipeIV
+mirror *--> marianaDeAustria
+mirror --> Observer
+
+Observer ..> meninas
+velazquez --> Canvas
+Canvas o--> meninas
+Canvas o--> mirror
+
+@enduml

@@ -1,19 +1,19 @@
 # 7-software
 
-- [Preguntas](https://escuela.it/master-programacion-diseno-software)
+- [Preguntas](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/software)
 - viernes 04/03/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/software)
 - lunes 07/03/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/software)
   - [Registro](https://forms.gle/xiXXdz2dyd7zL1Xp9)
 - martes 08/03/2022 - jueves 10/03/2022
-  - Proyectos
+  - [Proyectos](https://docs.google.com/spreadsheets/d/1C5YENShHM3wKNoEaxJBL11NyQmyW2s6h2qRpg6URYmE/edit?usp=sharing)
   
-  |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
-  |-------|---------|------------|----------|-----------|--------------|
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
+  |Domains|lab-dijkstra|lab-boole|lab-chomsky|lab-turing|lab-lovalace|cafeteria|
+  |-------|---------|------------|----------|-----------|--------------|--------------|
+  |game-connect4|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/software/game-connect4)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/software/game-connect4)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/software/game-connect4)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/software/game-connect4)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/software/game-connect4)|[Crítica:lab-dijkstra](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/software/game-connect4/lab-dijkstra) [Crítica:lab-boole](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/software/game-connect4/lab-boole) |
+  |game-klondike |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/software/game-klondike)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/software/game-klondike)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/software/game-klondike)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/software/game-klondike)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/software/game-klondike)|[Crítica:lab-dijkstra](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/software/game-klondike/lab-dijkstra)  [Crítica:lab-boole](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/software/game-klondike/lab-boole)|
+ 
 - viernes 11/03/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 12/03/2022 - domingo 13/03/2022

@@ -1,0 +1,50 @@
+@startuml 2
+title Cuadro de las Meninas de Velazques
+
+object planeA
+object planeB
+object planeC
+
+object me
+object observer
+object king
+object queen
+object infantaMargarita
+object isabelDeVelasco
+object mariaAgustina
+
+object mariBarbola
+object nicolasitoPertusato
+object marcelaDeUlloa
+object diegoRuizAzcona
+object joseNietoVelazquez
+object diegoVelazquez
+object dog
+
+
+observer -->me
+observer o--> king
+observer o--> queen
+planeA o--> infantaMargarita
+planeA *-- mariaAgustina
+planeA *-- isabelDeVelasco
+planeA *-- mariBarbola
+planeA *-- nicolasitoPertusato
+planeA *-- dog
+
+planeB *-- diegoVelazquez
+planeB *-- marcelaDeUlloa
+planeB *-- diegoRuizAzcona
+
+
+planeC o--> king
+planeC o--> queen
+planeC o-->infantaMargarita
+planeC *-- joseNietoVelazquez
+
+object meninas
+meninas *-- planeA
+meninas *-- planeB
+meninas *-- planeC
+
+@enduml

@@ -1,0 +1,57 @@
+@startuml 7
+
+object masterPDS
+object "luis:Teacher" as luis
+object ":Temary" as Temary
+object ":Practice" as Practice
+object ":Viewer" as Viewer1
+object ":Viewer" as Viewer2
+object ":Viewer" as Viewer3
+object ":Viewer" as Viewer4
+object ":Artist" as Artist1
+object ":Artist" as Artist2
+object ":Artist" as Artist3
+object ":Artist" as Artist4
+object ":Reviewer" as Reviewer1
+object ":Reviewer" as Reviewer2
+object ":Solution" as Solution1
+object ":Solution" as Solution2
+
+masterPDS *--> luis
+masterPDS *--> Viewer1
+masterPDS *--> Viewer2
+masterPDS *--> Viewer3
+masterPDS *--> Viewer4
+masterPDS *--> Artist1
+masterPDS *--> Artist2
+masterPDS *--> Artist3
+masterPDS *--> Artist4
+masterPDS *--> Reviewer1
+masterPDS *--> Reviewer2
+masterPDS *--> Temary
+
+Temary *--> Practice
+
+luis --> Temary
+Viewer1 ..> Temary
+Viewer2 ..> Temary
+Viewer3 ..> Temary
+Viewer4 ..> Temary
+
+Reviewer1 ..> Temary
+Reviewer1 --> Solution1
+Reviewer2 ..> Temary
+Reviewer2 --> Solution2
+
+Artist1 ..> Temary
+Artist2 ..> Temary
+Artist3 ..> Temary
+Artist4 ..> Temary
+
+Practice *--> Solution1
+Practice *--> Solution2
+Solution1 *--> Artist1
+Solution1 *--> Artist2
+Solution2 *--> Artist3
+Solution2 *--> Artist4
+@enduml
