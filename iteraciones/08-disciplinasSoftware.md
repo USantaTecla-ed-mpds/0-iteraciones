@@ -9,11 +9,10 @@
 - martes 15/03/2022 - jueves 17/03/2022
   - [Proyectos](https://docs.google.com/spreadsheets/d/1lMrh_jmefcvytjRLwAAqTL9_uPSC5qxz3OUbv2SlmwA/edit?usp=sharing)
   
-  |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
-  |-------|---------|------------|----------|-----------|--------------|
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
+  |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra  | cafeteria  |
+  |-------|---------|------------|----------|-----------|--------------|--------------|
+  |game-connect4|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/disciplinasSoftware/game-connect4) |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/disciplinasSoftware/game-connect4) |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/disciplinasSoftware/game-connect4 )|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/disciplinasSoftware/game-connect4 ) |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/disciplinasSoftware/game-connect4 ) | |
+  |game-klondike |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/disciplinasSoftware/game-klondike) |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/disciplinasSoftware/game-klondike) |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/disciplinasSoftware/game-klondike ) |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/disciplinasSoftware/game-klondike ) |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/disciplinasSoftware/game-klondike ) | |
 - viernes 18/03/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 19/03/2022 - domingo 20/03/2022
