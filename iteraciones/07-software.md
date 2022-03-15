@@ -15,10 +15,10 @@
   |game-klondike |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/software/game-klondike)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/software/game-klondike)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/software/game-klondike)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/software/game-klondike)|[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/software/game-klondike/docs/images)|[Crítica:lab-dijkstra](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/software/game-klondike/lab-dijkstra)  [Crítica:lab-boole](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/software/game-klondike/lab-boole)|
  
 - viernes 11/03/2022
-  - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
+  - [Corrección de Proyectos](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/software)
 - sabado 12/03/2022 - domingo 13/03/2022
   - [Prueba](https://forms.gle/T7RWjZntgQhtaog38)
 - lunes 14/03/2022
-  - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
+  - [Corrección de Prueba](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/software)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1F7PtOqd0TaXCcitRmY1q9UHtEFA-GD1P3m3ZxXLExkg/edit?usp=sharing)
 - [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TF2WJYS0)
