@@ -1,19 +1,20 @@
 # 9-dom-svg
 
-- [Preguntas](https://escuela.it/master-programacion-diseno-software)
-- viernes 18/03/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
+- [Preguntas](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/dom-svg)
+- viernes 17/03/2022
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/dom-svg)
 - lunes 21/03/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/dom-svg)
   - [Registro](https://forms.gle/6jPwRrYMcC2JxBsMA)
 - martes 22/03/2022 - jueves 24/03/2022
-  - Proyectos
+  - [Proyectos](https://docs.google.com/spreadsheets/d/1HBqQCXwSQviaunMM9fhBVLnmyV696VhUI3PJK9JA8VE/edit?usp=sharing)
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
+  |game-connect4 |[Proyectos](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-dom-svg/game-connect4) |            | [Proyectos](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-dom-svg/game-connect4) | [Proyectos](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-dom-svg/game-connect4)  |              |
   |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
+  |game-klondike |[Proyectos]() |            |[Proyectos](https://github.com/USantaTecla-ed-mpds/lab-turing/blob/master/tech-dom-svg/game-klondike/Modelo%20de%20Dominio%20de%20Klondike.svg) | [Proyectos](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-dom-svg/game-klondike) |              |
+  |  svg  |         |            | [Proyectos](https://github.com/USantaTecla-ed-mpds/lab-turing/blob/master/tech-dom-svg/svg/Estrella%20del%20Softwar-SVG.txt)|           |              |
 - viernes 25/03/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 26/03/2022 - domingo 27/03/2022

@@ -18,7 +18,7 @@
 - sabado 19/03/2022 - domingo 20/03/2022
   - [Prueba](https://docs.google.com/forms/d/e/1FAIpQLScsrtXipqUD1iDCOGJzFwcBaPsoMVXVeDCvjhU_D5hVz64f9g/viewform?usp=sf_link)
 - lunes 21/03/2022
-  - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
+  - [Corrección de Prueba](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/dom-svg)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1z2pLBe_05vVMy-iFtifwwIrev3Dyk5fuANzukcx9uqE/edit?usp=sharing)
 - [Comunidad](https://app.slack.com/client/T02S3KYD464/C02T63QV5ML)
 
