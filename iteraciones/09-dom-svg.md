@@ -16,9 +16,9 @@
   |game-klondike |[Proyectos]() |            |[Proyectos](https://github.com/USantaTecla-ed-mpds/lab-turing/blob/master/tech-dom-svg/game-klondike/Modelo%20de%20Dominio%20de%20Klondike.svg) | [Proyectos](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-dom-svg/game-klondike) |              |
   |  svg  |         |            | [Proyectos](https://github.com/USantaTecla-ed-mpds/lab-turing/blob/master/tech-dom-svg/svg/Estrella%20del%20Softwar-SVG.txt)|           |              |
 - viernes 25/03/2022
-  - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
+  - [Corrección de Proyectos](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/dom-svg)
 - sabado 26/03/2022 - domingo 27/03/2022
-  - [Prueba](https://forms.gle/wVMQ22bSLRNoAQ2Y8)
+  - [Prueba](https://forms.gle/1ijYvzFii2qWcewf7)
 - lunes 28/03/2022
   - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Uwtqa5VdD5wK2X7eLgkS6_th16aPnsW8pa5Ft2TyLPo/edit#gid=0)
