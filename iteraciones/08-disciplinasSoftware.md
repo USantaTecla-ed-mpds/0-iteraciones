@@ -5,7 +5,6 @@
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/disciplinas-software)
 - lunes 14/03/2022
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/disciplinas-software)
-  - [Registro](https://forms.gle/zBx6adbWLBNm4FjU9)
 - martes 15/03/2022 - jueves 17/03/2022
   - [Proyectos](https://docs.google.com/spreadsheets/d/1lMrh_jmefcvytjRLwAAqTL9_uPSC5qxz3OUbv2SlmwA/edit?usp=sharing)
   

@@ -7,7 +7,6 @@
 - lunes 31/01/2022
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/patrones-y-uml)
   - [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/tech-uml)
-  - [Registro](https://forms.gle/ZyqnArPTTyC8kd1f8)
 - martes 01/02/2022 - jueves 04/02/2022
    - [Proyectos](https://docs.google.com/spreadsheets/d/1lu233Csy6gqZ_yA9GLpfLsDPBaEscGsOCkjfG0Us-ws/edit#gid=0)
 

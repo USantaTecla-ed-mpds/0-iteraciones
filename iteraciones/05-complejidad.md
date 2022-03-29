@@ -6,7 +6,6 @@
 - lunes 21/02/2022
 - [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/1-fundamentos/3-complejidad)
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
-  - [Registro](https://forms.gle/wUmy3AiLW97LjpbP6)
 - martes 22/02/2022 - jueves 24/02/2022
   - [Proyectos](https://docs.google.com/spreadsheets/d/1Tr-_2NYnomvi76xykSHRzLbUVtxrRCkJ9jcrR633Tc8/edit#gid=0)
     - [DeclarativeGrid](https://forms.gle/nM6NemfzA5onwEbo9)

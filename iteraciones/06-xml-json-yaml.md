@@ -5,7 +5,6 @@
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/xml-json-yaml)
 - lunes 28/02/2022
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/xml-json-yaml)
-  - [Registro]()
 - martes 01/03/2022 - jueves 03/03/2022
   - [Proyectos](https://docs.google.com/spreadsheets/d/14hve8oFvBlUe5FOkmnc_4vHKhK8_ngaVkIR0xK5-UkQ/edit?usp=sharing)
   

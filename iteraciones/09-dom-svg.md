@@ -5,7 +5,6 @@
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/dom-svg)
 - lunes 21/03/2022
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/dom-svg)
-  - [Registro](https://forms.gle/6jPwRrYMcC2JxBsMA)
 - martes 22/03/2022 - jueves 24/03/2022
   - [Proyectos](https://docs.google.com/spreadsheets/d/1HBqQCXwSQviaunMM9fhBVLnmyV696VhUI3PJK9JA8VE/edit?usp=sharing)
   
