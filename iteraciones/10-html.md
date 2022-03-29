@@ -8,13 +8,13 @@
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/html)
   - [Registro](https://forms.gle/QtbymkoxnyaFRUuR6)
 - martes 29/03/2022 - jueves 31/03/2022
-  - Proyectos
+  - [Proyectos](https://docs.google.com/spreadsheets/d/10TXu_HRkGpopnZAAzi7mJgZoqK5RFD8bTolE2tvxA3o/edit?usp=sharing)
   
-  |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
+  |Domains|lab-boole|lab-chomsky|lab-turing|lab-dijkstra|lab-lovalace| 
   |-------|---------|------------|----------|-----------|--------------|
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
+  |game-connect4 | [Proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-html/game-connect4/0.0.publicationLanguage) | [Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-html/game-connect4/0.0.publicationLanguage) | [Proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-html/game-connect4/0.0.publicationLanguage) |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-html/game-connect4/0.0.publicationLanguage) |              |
+  |game-klondike |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-html/game-klondike/0.0.publicationLanguage) | [Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-html/game-klondike/0.0.publicationLanguage) | [Proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-html/game-klondike/0.0.publicationLanguage) |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-html/game-klondike/0.0.publicationLanguage) |             |
+  |curriculum |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-html/curriculum/0.0.publicationLanguage) | [Proyecto](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-html/curriculum/0.0.publicationLanguage) |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-html/curriculum/0.0.publicationLanguage) |[Proyecto](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-html/curriculum/0.0.publicationLanguage)|             |
 - viernes 1/04/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 02/04/2022 - domingo 03/04/2022
