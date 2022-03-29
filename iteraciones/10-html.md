@@ -1,10 +1,11 @@
 # 10-html
 
-- [Preguntas](https://escuela.it/master-programacion-diseno-software)
+- [Preguntas](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/html)
 - viernes 25/03/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/html)
 - lunes 28/03/2022
-  - [Exposición](https://escuela.it/master-programacion-diseno-software)
+- [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/tech-html)
+  - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/html)
   - [Registro](https://forms.gle/QtbymkoxnyaFRUuR6)
 - martes 29/03/2022 - jueves 31/03/2022
   - Proyectos

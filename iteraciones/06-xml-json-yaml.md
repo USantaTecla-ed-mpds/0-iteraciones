@@ -4,6 +4,9 @@
 - viernes 25/02/2022
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/xml-json-yaml)
 - lunes 28/02/2022
+- [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/tech-xml)
+- [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/tech-json)
+- [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/tech-yaml)
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/xml-json-yaml)
 - martes 01/03/2022 - jueves 03/03/2022
   - [Proyectos](https://docs.google.com/spreadsheets/d/14hve8oFvBlUe5FOkmnc_4vHKhK8_ngaVkIR0xK5-UkQ/edit?usp=sharing)

@@ -4,6 +4,8 @@
 - viernes 17/03/2022
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/dom-svg)
 - lunes 21/03/2022
+- [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/tech-dom)
+- [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/tech-svg)
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/dom-svg)
 - martes 22/03/2022 - jueves 24/03/2022
   - [Proyectos](https://docs.google.com/spreadsheets/d/1HBqQCXwSQviaunMM9fhBVLnmyV696VhUI3PJK9JA8VE/edit?usp=sharing)
@@ -19,6 +21,6 @@
 - sabado 26/03/2022 - domingo 27/03/2022
   - [Prueba](https://forms.gle/1ijYvzFii2qWcewf7)
 - lunes 28/03/2022
-  - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
+  - [Corrección de Prueba](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/dom-svg)
   - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Uwtqa5VdD5wK2X7eLgkS6_th16aPnsW8pa5Ft2TyLPo/edit#gid=0)
 - [Comunidad](https://app.slack.com/client/T02S3KYD464/C02U2GQUQJC)

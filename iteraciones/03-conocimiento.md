@@ -1,6 +1,6 @@
 # 3-conocimiento
 
-- [Preguntas]()
+- [Preguntas](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/conocimiento)
 - viernes 04/02/2022
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/conocimiento)
   - [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/1-fundamentos/2-conocimiento)
