@@ -11,8 +11,8 @@
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
+  |       |[Conecta4](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-css/game-connect4/0.0.publicationLanguage) |            |  [Conecta4](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-css/game-connect4)        |   [Conecta4](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-css/game-connect4/0.0.publicationLanguage)        |              |
+  |       |         |            |          |  [Klondike](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-css/game-klondike/0.0.publicationLanguage)         |              |
   |       |         |            |          |           |              |
 - viernes 08/04/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
