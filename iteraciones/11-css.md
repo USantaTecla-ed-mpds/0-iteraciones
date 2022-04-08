@@ -12,7 +12,7 @@
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
   |       |[Conecta4](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-css/game-connect4/0.0.publicationLanguage) * ver notas|            |  [Conecta4](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-css/game-connect4)        |   [Conecta4](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-css/game-connect4/0.0.publicationLanguage)        |              |
-  |       |         |            |          |  [Klondike](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-css/game-klondike/0.0.publicationLanguage)         |              |
+  |       |  [Klondike](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-css/game-klondike/0.0.publicationLanguage#responsive--fluid-html--css)       |            |          |  [Klondike](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-css/game-klondike/0.0.publicationLanguage)         |              |
   |       |         |            |          |           |              |
 
 
