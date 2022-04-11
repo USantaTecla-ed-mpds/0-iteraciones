@@ -11,10 +11,12 @@
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
-  |       |[Conecta4](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-css/game-connect4/0.0.publicationLanguage) * ver notas|            |  [Conecta4](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-css/game-connect4)        |   [Conecta4](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-css/game-connect4/0.0.publicationLanguage)        |              |
-  |       |  [Klondike](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-css/game-klondike/0.0.publicationLanguage#responsive--fluid-html--css)       |            |          |  [Klondike](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-css/game-klondike/0.0.publicationLanguage)         |              |
-  |       |         |            |          |           |              |
+  |       |[Conecta4](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-css/game-connect4/0.0.publicationLanguage) * ver notas| [Conecta4](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/tech-css/game-connect4)           |  [Conecta4](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-css/game-connect4)        |   [Conecta4](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-css/game-connect4/0.0.publicationLanguage)        |              |
+  |       |  [Klondike](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-css/game-klondike/0.0.publicationLanguage#responsive--fluid-html--css)       |  [Klondike](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/tech-css/game-klondike/KlondikeHtml)          |          |  [Klondike](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-css/game-klondike/0.0.publicationLanguage)         |              |
 
+
+- [Critica Conecta4](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/tech-css/game-connect4/0.0.publicationLanguage)  
+- [Critica Klondike](https://github.com/USantaTecla-ed-mpds/cafeteria/tree/master/tech-css/game-klondike/0.0.publicationLanguage)
 
 **Nota para ejecutar Conecta4 lab-boole**: Connect4 lab-boole se está pensado y diseñado para mobile en apaisado.
 Así que para verse bien se tendría que poner el navegador en modo mobile apaisado (con las devtools) y hacer refresh al final para que se recalculen bien las unidades dinámicas.
