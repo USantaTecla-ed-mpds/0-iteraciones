@@ -11,9 +11,11 @@
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
+  | [0-fraction0-1-inverse](https://github.com/USantaTecla-0-domains/0-simpleDomains/blob/master/docs/5-units.md#0-fraction0-1-inverse)      |         |            |          |           |              |
+  |  [1-interval4-split](https://github.com/USantaTecla-0-domains/0-simpleDomains/blob/master/docs/5-units.md#1-interval4-split)     |         |            |          |           |              |
+  |  [1-seasonwithpartv0](https://github.com/USantaTecla-0-domains/0-simpleDomains/blob/master/docs/5-units.md#1-seasonwithpartv0)     |         |            |          |           |              |
+ 
+
 - viernes 06/05/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 07/05/2022 - domingo 08/05/2022
