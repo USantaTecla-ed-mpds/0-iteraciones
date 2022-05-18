@@ -12,7 +12,7 @@
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
   |  [Names](https://github.com/USantaTecla-0-general/0-domains/blob/master/managers/countries/4-programming/names.md)     |         |            |          |           |              |
-  |       |         |            |          |           |              |
+  |  [RegionsSubregions](https://github.com/USantaTecla-0-general/0-domains/blob/master/managers/countries/4-programming/regionsSubregions.md)     |         |            |          |           |              |
   |       |         |            |          |           |              |
 - viernes 13/05/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
