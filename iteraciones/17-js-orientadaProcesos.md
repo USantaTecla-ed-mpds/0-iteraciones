@@ -11,7 +11,7 @@
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
-  |       |         |            |          |           |              |
+  | Mastermind  |  [Ver](https://github.com/USantaTecla-ed-mpds/lab-boole/tree/master/tech-js-procesos/game-mastermind)   |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-lovalace/blob/master/mastermind/masterMind.js)        |   [Ver](https://github.com/USantaTecla-ed-mpds/lab-turing/tree/master/tech-js-procesos/mastermind)       |           |     [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/blob/master/tech-js-orientada-procesos/MasterMind/app.js)         |
   |       |         |            |          |           |              |
   |       |         |            |          |           |              |
 - viernes 20/05/2022
