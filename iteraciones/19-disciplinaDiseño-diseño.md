@@ -11,9 +11,9 @@
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
+  |  Mastermind     |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-boole/blob/master/tech-js-procesos/game-mastermind/app.js)*        |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-lovalace/blob/master/mastermind/MasterMindFinished.js)        |      [Ver](https://github.com/USantaTecla-ed-mpds/lab-turing/blob/master/tech-js-procesos/mastermind/app.js)    |   [Ver](https://github.com/USantaTecla-ed-mpds/lab-chomsky/blob/master/tech-js-procesos/mastermind/mastermind.js)*        |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/blob/master/tech-js-orientada-procesos/MasterMind/app.js)*          |
+  |  4 In Row       |            |   [Ver](https://github.com/USantaTecla-ed-mpds/lab-lovalace/blob/master/4InRow/4InRowV0.1.js)         |          |   [Ver](https://github.com/USantaTecla-ed-mpds/lab-chomsky/blob/master/tech-js-procesos/mastermind/mastermind.js)        |              |
+  
 - viernes 03/06/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 04/06/2022 - domingo 05/06/2022
