@@ -11,7 +11,7 @@
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
-  |       |         |            |          |           |              |
+  |  TicTacToe     |  [Ver](https://github.com/USantaTecla-ed-mpds/0-iteraciones.git)       |            |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-turing/blob/master/tech-js-procesos/tic-tac-toe/app.js)      |           |     [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/blob/master/tech-js-orientada-procesos/TicTacToe/app.js)         |
   |       |         |            |          |           |              |
   |       |         |            |          |           |              |
 - viernes 10/06/2022
