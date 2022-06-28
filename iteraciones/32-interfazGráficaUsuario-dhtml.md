@@ -1,4 +1,4 @@
-# 31-interfazGráficaUsuario-dhtml
+# 32-interfazGráficaUsuario-dhtml
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 23/09/2022

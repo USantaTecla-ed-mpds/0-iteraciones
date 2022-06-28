@@ -1,4 +1,4 @@
-# 38-java-orientadaObjetos
+# 39-java-orientadaObjetos
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 11/11/2022

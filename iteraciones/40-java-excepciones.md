@@ -1,4 +1,4 @@
-# 39-java-excepciones
+# 40-java-excepciones
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 18/11/2022

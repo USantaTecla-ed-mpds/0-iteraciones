@@ -1,4 +1,4 @@
-# 27-diseñoOrientadoObjetos
+# 28-diseñoOrientadoObjetos
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 22/07/2022

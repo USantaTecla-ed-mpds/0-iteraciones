@@ -1,4 +1,4 @@
-# 36-java-estructurada
+# 37-java-estructurada
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 28/10/2022

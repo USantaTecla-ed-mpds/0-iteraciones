@@ -1,4 +1,4 @@
-# 50-arquitecturaSoftware
+# 51-arquitecturaSoftware
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 10/03/2023

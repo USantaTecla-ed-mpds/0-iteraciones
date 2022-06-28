@@ -1,4 +1,4 @@
-# 30-js-modular
+# 31-js-modular
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 16/09/2022

@@ -1,4 +1,4 @@
-# 23-diseñoModular
+# 24-diseñoModular
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 24/06/2022

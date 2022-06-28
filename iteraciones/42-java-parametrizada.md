@@ -1,4 +1,4 @@
-# 41-java-parametrizada
+# 42-java-parametrizada
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 09/12/2022

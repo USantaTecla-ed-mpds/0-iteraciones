@@ -1,4 +1,4 @@
-# 37-java-basadaObjetos
+# 38-java-basadaObjetos
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 04/11/2022

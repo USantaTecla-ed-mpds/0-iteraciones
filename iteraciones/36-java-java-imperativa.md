@@ -1,4 +1,4 @@
-# 35-java-java-imperativa
+# 36-java-java-imperativa
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 21/10/2022

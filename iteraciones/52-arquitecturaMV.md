@@ -1,4 +1,4 @@
-# 51-Arquitectura MV*
+# 52-Arquitectura MV*
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 17/03/2023

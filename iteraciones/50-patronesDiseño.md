@@ -1,4 +1,4 @@
-# 49-patronesDiseño
+# 50-patronesDiseño
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 03/03/2023
