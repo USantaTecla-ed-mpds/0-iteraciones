@@ -1,4 +1,4 @@
-# 20-diseño
+# 22-diseño
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 20/06/2022
