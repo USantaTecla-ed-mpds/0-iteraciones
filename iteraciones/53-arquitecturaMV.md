@@ -1,12 +1,12 @@
-# 45-patronesDiseño
+# 53-arquitecturaMV*
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
-- viernes 03/02/2023
+- viernes 24/03/2023
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
-- lunes 06/02/2023
+- lunes 27/03/2023
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
-  - [Registro](https://forms.gle/Qq3h1YKh7mo4SyKb8)
-- martes 07/02/2023 - jueves 09/02/2023
+  - [Registro](https://forms.gle/22csT7mZKcGUb5yF8)
+- martes 28/03/2023 - jueves 29/03/2023
   - Proyectos
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
@@ -14,11 +14,11 @@
   |       |         |            |          |           |              |
   |       |         |            |          |           |              |
   |       |         |            |          |           |              |
-- viernes 10/02/2023
+- viernes 31/03/2023
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
-- sabado 11/02/2023 - domingo 12/02/2023
-  - [Prueba](https://forms.gle/RTHdQARGosCCGdVw9)
-- lunes 13/02/2023
+- sabado 01/04/2023 - domingo 02/04/2023
+  - [Prueba](https://forms.gle/u5HqYSEJzcRCanyZ8)
+- lunes 03/04/2023
   - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
-  - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1C-fvYYNdwwdnE5_orrZBySfj_fWFASLAes90BX_1_1I/edit?usp=sharing)
-- [Comunidad](https://app.slack.com/client/T02S3KYD464/C02U97EQUQZ)
+  - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1fL8Y6hxJpuZgJZV5CORPQ7AfxTULStwWIkJCTKsqzuw/edit?usp=sharing)
+- [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TG0EF7N3)

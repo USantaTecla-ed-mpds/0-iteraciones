@@ -1,4 +1,4 @@
-# 29-js-excepciones
+# 30-js-excepciones
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
 - viernes 09/09/2022

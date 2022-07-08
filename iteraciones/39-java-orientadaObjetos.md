@@ -1,12 +1,12 @@
-# 42-swing
+# 39-java-orientadaObjetos
 
 - [Preguntas](https://escuela.it/master-programacion-diseno-software)
-- viernes 13/01/2023
+- viernes 11/11/2022
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
-- lunes 16/01/2023
+- lunes 14/11/2022
   - [Exposición](https://escuela.it/master-programacion-diseno-software)
-  - [Registro](https://forms.gle/a6sK1Bt4RZ8DJWhV7)
-- martes 17/01/2023 - jueves 19/01/2023
+  - [Registro](https://forms.gle/beJmvBhK87Y7Z3HU7)
+- martes 15/11/2022 - jueves 17/11/2022
   - Proyectos
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
@@ -14,11 +14,11 @@
   |       |         |            |          |           |              |
   |       |         |            |          |           |              |
   |       |         |            |          |           |              |
-- viernes 20/01/2023
+- viernes 18/11/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
-- sabado 21/01/2023 - domingo 22/01/2023
-  - [Prueba](https://forms.gle/caNWocs2y5nHv1hE6)
-- lunes 23/01/2023
+- sabado 19/11/2022 - domingo 20/11/2022
+  - [Prueba](https://forms.gle/EYyoLuGRkqkeJYAq7)
+- lunes 21/11/2022
   - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
-  - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Lw9YkkNCc92hoEoH9gTzkpwLKZ4oK89rkQg4HFXDUUA/edit?usp=sharing)
-- [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TYSEFX5J)
+  - [Solución de Prueba](https://docs.google.com/spreadsheets/d/1Uwtqa5VdD5wK2X7eLgkS6_th16aPnsW8pa5Ft2TyLPo/edit#gid=0)
+- [Comunidad](https://app.slack.com/client/T02S3KYD464/C02TWHADWP4)
