@@ -14,6 +14,7 @@
   |   Mastermind    |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-boole/blob/master/tech-js-objetos/game-mastermind/app.js)     |   [Ver](https://github.com/USantaTecla-ed-mpds/lab-lovalace/blob/master/tech-js-basada-objetos/game-mastermind/v0.2/v0.2.1/app.js)         |          |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-js-basado-objetos/mastermind)  (Sin cambios últimos 7 días)     |      [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-js-basada-objetos/MasterMind)      |
   | Connect4      |         |            |          |           |     [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-js-basada-objetos/Connect4)         |
   |  Draughts     |         |            |          |           |      [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-js-basada-objetos/Draughts)        |
+  
 - viernes 24/06/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 25/06/2022 - domingo 26/06/2022
