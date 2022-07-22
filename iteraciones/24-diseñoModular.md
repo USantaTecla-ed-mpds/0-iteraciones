@@ -9,11 +9,12 @@
 - martes 28/06/2022 - jueves 30/06/2022
   - Proyectos
   
-  |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
+ |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
+  |   Mastermind    |  [Ver](https://github.com/USantaTecla-ed-mpds/lab-boole/blob/master/tech-js-objetos/game-mastermind/app.js)       |            |          |  [Vistas separadas](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-js-basado-objetos/mastermind/con-vistas-separadas) [Sin vistas separadas](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-js-basado-objetos/mastermind/sin-vistas-separadas)          |              |
+  |    4 en raya   |         |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/4InRow)        |          |           |              |
   |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
+
 - viernes 01/07/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 02/07/2022 - domingo 03/07/2022
