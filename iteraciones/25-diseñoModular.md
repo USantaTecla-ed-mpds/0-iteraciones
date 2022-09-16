@@ -11,7 +11,7 @@
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
-  | Conecta 4      |         |            |          |           |     [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/blob/master/tech-js-basada-objetos/Connect4withViews/app.js)         |
+  | Conecta 4      |         |     [Ver](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/4InRow)       |          |           |     [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/blob/master/tech-js-basada-objetos/Connect4withViews/app.js)         |
   |       |         |            |          |           |              |
   |       |         |            |          |           |              |
 
