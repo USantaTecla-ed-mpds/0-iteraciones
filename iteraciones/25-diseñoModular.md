@@ -11,17 +11,11 @@
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
-<<<<<<< HEAD:iteraciones/22-diseñoModular.md
-  |   Mastermind    |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-boole/blob/master/tech-js-objetos/game-mastermind/app.js)     |   [Ver](https://github.com/USantaTecla-ed-mpds/lab-lovalace/tree/master/tech-js-basada-objetos/game-mastermind)         |          |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-chomsky/tree/master/tech-js-basado-objetos/mastermind)  (Sin cambios últimos 7 días)     |      [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-js-basada-objetos/MasterMind)      |
-  | Connect4      |         |            |          |           |     [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-js-basada-objetos/Connect4)         |
-  |  Draughts     |         |            |          |           |      [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-js-basada-objetos/Draughts)        |
-- viernes 24/06/2022
-=======
+  | Conecta 4      |         |            |          |           |     [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/blob/master/tech-js-basada-objetos/Connect4withViews/app.js)         |
   |       |         |            |          |           |              |
   |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
+
 - viernes 08/07/2022
->>>>>>> de6ff75d22ba25bc46bc2d614f1d241e0113e04f:iteraciones/25-diseñoModular.md
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 09/07/2022 - domingo 10/07/2022
   - [Prueba](https://forms.gle/oDxtZxsjYMQfi7k37)
