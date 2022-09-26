@@ -11,7 +11,7 @@
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
-  |       |         |            |          |           |              |
+  |  Conecta-4     |         |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-lovalace/blob/master/4InRow/4inRowV0.6.js)        |          |           |              |
   |       |         |            |          |           |              |
   |       |         |            |          |           |              |
 - viernes 22/07/2022
