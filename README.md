@@ -18,7 +18,7 @@
 |[19-disciplinaDiseño-diseño](iteraciones/19-disciplinaDiseño-diseño.md) | [20-diseño](iteraciones/20-diseño.md) |
 |[21-js-basadaObjetos](iteraciones/21-js-basadaObjetos.md) | [22-diseño](iteraciones/22-diseño.md) |
 |[23-diseñoModular](iteraciones/23-diseñoModular.md) |  [24-diseñoModular](iteraciones/24-diseñoModular.md) 
-|[25-diseñoModular](iteraciones/25-diseñoModular.md) |[26-js-orientadaObjetos](iteraciones/26-diseñoOrientadoObjetos) 
+|[25-diseñoModular](iteraciones/25-diseñoModular.md) |[26-js-orientadaObjetos](iteraciones/26-diseñoOrientadoObjetos.md) 
 |[27-diseñoOrientadoObjetos](iteraciones/27-diseñoOrientadoObjetos.md) |[28-diseñoOrientadoObjetos](iteraciones/28-diseñoOrientadoObjetos.md) 
 |[29-diseñoOrientadoObjetos](iteraciones/29-diseñoOrientadoObjetos.md) |[30-js-excepciones](iteraciones/30-js-excepciones.md) 
 |[31-js-modular](iteraciones/31-js-modular.md) |[32-interfazGráficaUsuario-dhtml](iteraciones/32-interfazGráficaUsuario-dhtml.md) 
