@@ -13,7 +13,7 @@
   |-------|---------|------------|----------|-----------|--------------|
   |  Conecta-4     |         |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-lovalace/blob/master/4InRow/4inRowV0.6.js)        |          |           |     [Ver](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/tree/master/tech-js-basada-objetos/Connect4withViewsV2)         |
   |       |         |            |          |           |              |
-  |       |         |            |          |           |              |
+  |   Conecta-4 14/10    |         |            |          |           |      [Conecta-4 clousures](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/blob/master/tech-js-basada-objetos/Connect4withViewsV2/connect4-v2.js)        |
 - viernes 22/07/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
 - sabado 23/07/2022 - domingo 24/07/2022
