@@ -11,7 +11,7 @@
   
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
-  |       |         |            |          |           |              |
+  |       |         |            |          |           |    [Vista separada con clases](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/blob/master/tech-js-basada-objetos/Connect4withViewsV2/connect4-v2.js)          |
   |       |         |            |          |           |              |
   |       |         |            |          |           |              |
 - viernes 15/07/2022
