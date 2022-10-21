@@ -12,7 +12,7 @@
   |Domains|lab-boole|lab-lovalace|lab-turing|lab-chomsky|lab-dijkstra|
   |-------|---------|------------|----------|-----------|--------------|
   |       |         |            |          |           |              |
-  |       |         |            |    [Ver](https://github.com/USantaTecla-ed-mpds/lab-turing/blob/master/tech-js-orientadoObjetos/connect4/app.js)      |           | [Multiplayer](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/blob/master/tech-js-basada-objetos/Connect4withViewsV2/connect4-v2.js)             |
+  |       |         |            |          |           | [Multiplayer](https://github.com/USantaTecla-ed-mpds/lab-dijkstra/blob/master/tech-js-basada-objetos/Connect4withViewsV2/connect4-v2.js)             |
   |       |         |            |          |           |              |
 - viernes 29/07/2022
   - [Corrección de Proyectos](https://escuela.it/master-programacion-diseno-software)
